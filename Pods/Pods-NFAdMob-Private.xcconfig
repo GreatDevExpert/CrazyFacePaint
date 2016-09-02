@@ -1,0 +1,5 @@
+#include "Pods-NFAdMob.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/NFAdMob" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/AFNetworking" "${PODS_ROOT}/Headers/AdColony" "${PODS_ROOT}/Headers/AdMobMediationAdapterAdColony" "${PODS_ROOT}/Headers/Appirater" "${PODS_ROOT}/Headers/ChartboostSDK" "${PODS_ROOT}/Headers/DVAdKit" "${PODS_ROOT}/Headers/Fiksu-iOS-SDK" "${PODS_ROOT}/Headers/FlurryRestrictedSDK" "${PODS_ROOT}/Headers/Google-AdMob-Ads-SDK" "${PODS_ROOT}/Headers/IAPValidation" "${PODS_ROOT}/Headers/KSLabel" "${PODS_ROOT}/Headers/MD5Digest" "${PODS_ROOT}/Headers/NFAdMob" "${PODS_ROOT}/Headers/NFChartboost" "${PODS_ROOT}/Headers/NFLibrary" "${PODS_ROOT}/Headers/OpenUDID" "${PODS_ROOT}/Headers/SBJson" "${PODS_ROOT}/Headers/VungleAdvertiserSDK"
+OTHER_LDFLAGS = -ObjC ${PODS_NFADMOB_OTHER_LDFLAGS}
+PODS_ROOT = ${SRCROOT}

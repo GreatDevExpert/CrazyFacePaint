@@ -1,0 +1,62 @@
+{
+	"type":"object",
+	"$schema": "http://json-schema.org/draft-03/schema",
+	"id": "#",
+	"required":false,
+	"properties":{
+		"download_on_purchase_devices": {
+			"type":"array",
+			"id": "download_on_purchase_devices",
+			"description":"Specifies which devices should download content upon purchase.",
+			"required":false,
+            "optional":true,
+			"items":
+            {
+                "type":"string",
+                "id": "0",
+                "required":false
+            }
+		},
+		"download_on_purchase": {
+			"type":"boolean",
+			"id": "download_on_purchase",
+			"required":false,
+            "optional":true
+		},
+		"id": {
+			"type":"string",
+			"id": "id",
+			"required":true
+		},
+		"images_key_paths": {
+			"type":"array",
+			"id": "images_key_paths",
+			"required":false,
+      "optional":true,
+			"items":
+            {
+                "type":"string",
+                "Description":"These should be json paths",
+                "id": "0",
+                "required":false
+            }  
+		},
+		"locked_index": {
+			"type":"number",
+			"id": "locked_index",
+			"required":false,
+            "optional":true
+		},
+		"name": {
+			"type":"string",
+			"id": "name",
+			"required":false
+		},
+		"store_image": {
+			"type":"string",
+			"id": "store_image",
+			"required":false
+		}
+	},
+	"additionalProperties":false
+}

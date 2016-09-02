@@ -1,0 +1,1 @@
+../../../Fiksu-iOS-SDK/FiksuSDK.embeddedframework/FiksuSDK.framework/Versions/A/Headers/FiksuTrackingManager.h

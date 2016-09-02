@@ -1,0 +1,1 @@
+../../NFLibrary/Classes/NFLibrary/NFApplication/NFApplicationConfigurer.h

@@ -1,0 +1,1 @@
+../../NFLibrary/Classes/NFLibrary/NFUIKit/NFViews/NFShrinkingScrollViewSelector.h

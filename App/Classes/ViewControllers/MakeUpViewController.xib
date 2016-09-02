@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6245" systemVersion="14A389" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1536" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="MakeUpViewController">
+            <connections>
+                <outlet property="backgroundImageView" destination="5" id="euP-40-aDo"/>
+                <outlet property="draggableMakeupRemover" destination="172" id="fsZ-N0-0Sp"/>
+                <outlet property="guideViewForFaceArea" destination="cXB-Dz-oYd" id="gcQ-s4-P7a"/>
+                <outlet property="scrollableBenchView" destination="vwl-gi-7va" id="sBL-uk-cjt"/>
+                <outlet property="sideScrollViewSelector" destination="81" id="89u-tx-j2R"/>
+                <outlet property="unlockThemeButton" destination="Qju-Fq-KgI" id="z08-Ey-DbW"/>
+                <outlet property="verticalControlButtonStripView" destination="85" id="Zyy-Nw-H4s"/>
+                <outlet property="view" destination="1" id="4"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" image="shared-characters-bodies-001.png" id="5">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="shared-side_bar.png" id="82" customClass="NFImageView">
+                    <rect key="frame" x="243" y="58" width="77" height="278"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <view contentMode="scaleToFill" id="81" customClass="NFScrollViewSelector">
+                    <rect key="frame" x="266" y="63" width="54" height="266"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="0.0" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="backgroundImageView" destination="82" id="83"/>
+                    </connections>
+                </view>
+                <view contentMode="scaleToFill" id="85" customClass="NFControlButtonStripView">
+                    <rect key="frame" x="4" y="6" width="53" height="378"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="1" alpha="0.28999999999999998" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" id="172" customClass="NFDraggableView">
+                    <rect key="frame" x="271" y="338" width="46" height="50"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="activities-make_up-remover.png" id="173">
+                            <rect key="frame" x="0.0" y="0.0" width="46" height="30"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="0.0" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="imageView" destination="173" id="MPy-Zf-cIt"/>
+                    </connections>
+                </view>
+                <view contentMode="scaleToFill" id="vwl-gi-7va" customClass="NFScrollableBenchView">
+                    <rect key="frame" x="0.0" y="380.00000057572669" width="320" height="99.999999424273327"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES" heightSizable="YES"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="2Od-gD-FAE">
+                            <rect key="frame" x="2" y="55" width="34" height="29.999999796802346"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES"/>
+                            <state key="normal" image="shared-scrollable_bench-arrows-left.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="leftArrowButtonPressed:" destination="vwl-gi-7va" eventType="touchUpInside" id="FTQ-TY-3K4"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="sFB-9g-Ogb">
+                            <rect key="frame" x="283.99999998135195" y="55" width="34" height="29.999999796802346"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMinY="YES" heightSizable="YES"/>
+                            <state key="normal" image="shared-scrollable_bench-arrows-right.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="rightArrowButtonPressed:" destination="vwl-gi-7va" eventType="touchUpInside" id="04l-0M-ZxM"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="leftArrowButton" destination="2Od-gD-FAE" id="kOi-VT-Tqw"/>
+                        <outlet property="rightArrowButton" destination="sFB-9g-Ogb" id="dip-ou-y8P"/>
+                    </connections>
+                </view>
+                <view contentMode="scaleToFill" id="cXB-Dz-oYd">
+                    <rect key="frame" x="41" y="76" width="239" height="324"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="0.66666666666666663" alpha="0.29999999999999999" colorSpace="calibratedWhite"/>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Qju-Fq-KgI">
+                    <rect key="frame" x="52" y="1" width="53" height="59"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="activities-make_up-buttons-themes_locked-color.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="unlockThemeButtonPressed:" destination="-1" eventType="touchUpInside" id="vQk-83-c23"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="activities-make_up-buttons-themes_locked-color.png" width="127" height="122"/>
+        <image name="activities-make_up-remover.png" width="56" height="42"/>
+        <image name="shared-characters-bodies-001.png" width="768" height="1363"/>
+        <image name="shared-scrollable_bench-arrows-left.png" width="43" height="39"/>
+        <image name="shared-scrollable_bench-arrows-right.png" width="43" height="39"/>
+        <image name="shared-side_bar.png" width="237" height="828"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

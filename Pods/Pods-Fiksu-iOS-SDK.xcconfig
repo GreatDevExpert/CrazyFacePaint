@@ -1,0 +1,2 @@
+PODS_FIKSU_IOS_SDK_FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/Fiksu-iOS-SDK/**" "$(PODS_ROOT)/Fiksu-iOS-SDK/FiksuSDK.embeddedframework"
+PODS_FIKSU_IOS_SDK_OTHER_LDFLAGS = -framework FiksuSDK -framework MessageUI -framework SystemConfiguration -weak_framework AdSupport -weak_framework StoreKit

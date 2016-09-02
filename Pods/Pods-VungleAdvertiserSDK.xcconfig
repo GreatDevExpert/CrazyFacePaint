@@ -1,0 +1,2 @@
+PODS_VUNGLEADVERTISERSDK_FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/VungleAdvertiserSDK/VungleSDK.embeddedframework"
+PODS_VUNGLEADVERTISERSDK_OTHER_LDFLAGS = -lsqlite3 -lz -framework AVFoundation -framework AdSupport -framework AudioToolbox -framework CFNetwork -framework CoreGraphics -framework CoreMedia -framework Foundation -framework MediaPlayer -framework QuartzCore -framework StoreKit -framework SystemConfiguration -framework UIKit -framework VungleSDK

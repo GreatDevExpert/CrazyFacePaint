@@ -1,0 +1,2 @@
+PODS_NATIVEXSDK_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/NativeXSDK/Classes"
+PODS_NATIVEXSDK_OTHER_LDFLAGS = -lNativeXSDK -lsqlite3 -framework CoreGraphics -framework Foundation -framework MediaPlayer -framework MessageUI -framework Security -framework StoreKit -framework SystemConfiguration -framework UIKit -weak_framework AdSupport

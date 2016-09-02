@@ -1,0 +1,1 @@
+../../DVAdKit/Classes/DVAdKit/Models/DVAdKitManagedObjects.h

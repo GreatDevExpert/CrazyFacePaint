@@ -1,0 +1,1 @@
+../../NFLibrary/Classes/NFLibrary/NFStore/In App Purchasing/NFInAppPurchasesManager.h

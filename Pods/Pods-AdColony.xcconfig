@@ -1,0 +1,2 @@
+PODS_ADCOLONY_FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/AdColony" "$(PODS_ROOT)/AdColony"
+PODS_ADCOLONY_OTHER_LDFLAGS = -lz -framework AVFoundation -framework AdColony -framework AudioToolbox -framework CoreGraphics -framework CoreMedia -framework CoreTelephony -framework EventKit -framework EventKitUI -framework MediaPlayer -framework MessageUI -framework QuartzCore -framework SystemConfiguration -weak_framework AdSupport -weak_framework Social -weak_framework StoreKit

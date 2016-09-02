@@ -1,0 +1,1582 @@
+{
+  "activities": {
+    "facepaint": {
+      "background": "activities-facepaint-background.jpg",
+      "brushes": {
+        "christmas": {
+          "item": "activities-facepaint-brushes-christmas-item",
+          "tip": "activities-facepaint-brushes-christmas-tip"
+        },
+        "frozen": {
+          "item": "activities-facepaint-brushes-frozen-item",
+          "tip": "activities-facepaint-brushes-frozen-tip"
+        },
+        "santa": {
+          "item": "activities-facepaint-brushes-santa-item",
+          "tip": "activities-facepaint-brushes-santa-tip"
+        },
+        "snowman": {
+          "item": "activities-facepaint-brushes-snowman-item",
+          "tip": "activities-facepaint-brushes-snowman-tip"
+        }
+      },
+      "buttons": {
+        "paint_colors": {
+          "glitter": "activities-facepaint-buttons-paint_colors-glitter",
+          "gold": "activities-facepaint-buttons-paint_colors-gold",
+          "green": "activities-facepaint-buttons-paint_colors-green",
+          "regular": "activities-facepaint-buttons-paint_colors-regular"
+        },
+        "paint_colors_locked": {
+          "glitter": "activities-facepaint-buttons-paint_colors_locked-glitter",
+          "gold": "activities-facepaint-buttons-paint_colors_locked-gold",
+          "green": "activities-facepaint-buttons-paint_colors_locked-green",
+          "regular": "activities-facepaint-buttons-paint_colors_locked-regular"
+        },
+        "themes": {
+          "christmas": "activities-facepaint-buttons-themes-christmas",
+          "frozen": "activities-facepaint-buttons-themes-frozen",
+          "santa": "activities-facepaint-buttons-themes-santa",
+          "snowman": "activities-facepaint-buttons-themes-snowman"
+        },
+        "themes_locked": {
+          "christmas": "activities-facepaint-buttons-themes_locked-christmas",
+          "frozen": "activities-facepaint-buttons-themes_locked-frozen",
+          "santa": "activities-facepaint-buttons-themes_locked-santa",
+          "snowman": "activities-facepaint-buttons-themes_locked-snowman"
+        }
+      },
+      "face_mask": "activities-facepaint-face_mask",
+      "paint_colors": {
+        "glitter": {
+          "containers": [
+            "activities-facepaint-paint_colors-glitter-containers-1",
+            "activities-facepaint-paint_colors-glitter-containers-2",
+            "activities-facepaint-paint_colors-glitter-containers-3",
+            "activities-facepaint-paint_colors-glitter-containers-4",
+            "activities-facepaint-paint_colors-glitter-containers-5",
+            "activities-facepaint-paint_colors-glitter-containers-6",
+            "activities-facepaint-paint_colors-glitter-containers-7",
+            "activities-facepaint-paint_colors-glitter-containers-8"
+          ],
+          "masks": [
+            "activities-facepaint-paint_colors-glitter-masks-001",
+            "activities-facepaint-paint_colors-glitter-masks-002",
+            "activities-facepaint-paint_colors-glitter-masks-003",
+            "activities-facepaint-paint_colors-glitter-masks-004",
+            "activities-facepaint-paint_colors-glitter-masks-005",
+            "activities-facepaint-paint_colors-glitter-masks-006",
+            "activities-facepaint-paint_colors-glitter-masks-007",
+            "activities-facepaint-paint_colors-glitter-masks-008"
+          ],
+          "thumbs": [
+            "activities-facepaint-paint_colors-glitter-thumbs-1",
+            "activities-facepaint-paint_colors-glitter-thumbs-2",
+            "activities-facepaint-paint_colors-glitter-thumbs-3",
+            "activities-facepaint-paint_colors-glitter-thumbs-4",
+            "activities-facepaint-paint_colors-glitter-thumbs-5",
+            "activities-facepaint-paint_colors-glitter-thumbs-6",
+            "activities-facepaint-paint_colors-glitter-thumbs-7",
+            "activities-facepaint-paint_colors-glitter-thumbs-8"
+          ]
+        },
+        "gold": {
+          "containers": [
+            "activities-facepaint-paint_colors-gold-containers-1",
+            "activities-facepaint-paint_colors-gold-containers-2",
+            "activities-facepaint-paint_colors-gold-containers-3",
+            "activities-facepaint-paint_colors-gold-containers-4",
+            "activities-facepaint-paint_colors-gold-containers-5",
+            "activities-facepaint-paint_colors-gold-containers-6",
+            "activities-facepaint-paint_colors-gold-containers-7",
+            "activities-facepaint-paint_colors-gold-containers-8"
+          ],
+          "masks": [
+            "activities-facepaint-paint_colors-gold-masks-001",
+            "activities-facepaint-paint_colors-gold-masks-002",
+            "activities-facepaint-paint_colors-gold-masks-003",
+            "activities-facepaint-paint_colors-gold-masks-004",
+            "activities-facepaint-paint_colors-gold-masks-005",
+            "activities-facepaint-paint_colors-gold-masks-006",
+            "activities-facepaint-paint_colors-gold-masks-007",
+            "activities-facepaint-paint_colors-gold-masks-008"
+          ],
+          "thumbs": [
+            "activities-facepaint-paint_colors-gold-thumbs-1",
+            "activities-facepaint-paint_colors-gold-thumbs-2",
+            "activities-facepaint-paint_colors-gold-thumbs-3",
+            "activities-facepaint-paint_colors-gold-thumbs-4",
+            "activities-facepaint-paint_colors-gold-thumbs-5",
+            "activities-facepaint-paint_colors-gold-thumbs-6",
+            "activities-facepaint-paint_colors-gold-thumbs-7",
+            "activities-facepaint-paint_colors-gold-thumbs-8"
+          ]
+        },
+        "green": {
+          "containers": [
+            "activities-facepaint-paint_colors-green-containers-1",
+            "activities-facepaint-paint_colors-green-containers-2",
+            "activities-facepaint-paint_colors-green-containers-3",
+            "activities-facepaint-paint_colors-green-containers-4",
+            "activities-facepaint-paint_colors-green-containers-5",
+            "activities-facepaint-paint_colors-green-containers-6",
+            "activities-facepaint-paint_colors-green-containers-7",
+            "activities-facepaint-paint_colors-green-containers-8"
+          ],
+          "masks": [
+            "activities-facepaint-paint_colors-green-masks-001",
+            "activities-facepaint-paint_colors-green-masks-002",
+            "activities-facepaint-paint_colors-green-masks-003",
+            "activities-facepaint-paint_colors-green-masks-004",
+            "activities-facepaint-paint_colors-green-masks-005",
+            "activities-facepaint-paint_colors-green-masks-006",
+            "activities-facepaint-paint_colors-green-masks-007",
+            "activities-facepaint-paint_colors-green-masks-008"
+          ],
+          "thumbs": [
+            "activities-facepaint-paint_colors-green-thumbs-1",
+            "activities-facepaint-paint_colors-green-thumbs-2",
+            "activities-facepaint-paint_colors-green-thumbs-3",
+            "activities-facepaint-paint_colors-green-thumbs-4",
+            "activities-facepaint-paint_colors-green-thumbs-5",
+            "activities-facepaint-paint_colors-green-thumbs-6",
+            "activities-facepaint-paint_colors-green-thumbs-7",
+            "activities-facepaint-paint_colors-green-thumbs-8"
+          ]
+        },
+        "regular": {
+          "containers": [
+            "activities-facepaint-paint_colors-regular-containers-1",
+            "activities-facepaint-paint_colors-regular-containers-2",
+            "activities-facepaint-paint_colors-regular-containers-3",
+            "activities-facepaint-paint_colors-regular-containers-4",
+            "activities-facepaint-paint_colors-regular-containers-5",
+            "activities-facepaint-paint_colors-regular-containers-6",
+            "activities-facepaint-paint_colors-regular-containers-7",
+            "activities-facepaint-paint_colors-regular-containers-8"
+          ],
+          "masks": [
+            "activities-facepaint-paint_colors-regular-masks-001",
+            "activities-facepaint-paint_colors-regular-masks-002",
+            "activities-facepaint-paint_colors-regular-masks-003",
+            "activities-facepaint-paint_colors-regular-masks-004",
+            "activities-facepaint-paint_colors-regular-masks-005",
+            "activities-facepaint-paint_colors-regular-masks-006",
+            "activities-facepaint-paint_colors-regular-masks-007",
+            "activities-facepaint-paint_colors-regular-masks-008"
+          ],
+          "thumbs": [
+            "activities-facepaint-paint_colors-regular-thumbs-1",
+            "activities-facepaint-paint_colors-regular-thumbs-2",
+            "activities-facepaint-paint_colors-regular-thumbs-3",
+            "activities-facepaint-paint_colors-regular-thumbs-4",
+            "activities-facepaint-paint_colors-regular-thumbs-5",
+            "activities-facepaint-paint_colors-regular-thumbs-6",
+            "activities-facepaint-paint_colors-regular-thumbs-7",
+            "activities-facepaint-paint_colors-regular-thumbs-8"
+          ]
+        }
+      },
+      "remover": "activities-facepaint-remover",
+      "themes": {
+        "christmas": {
+          "background": "activities-facepaint-themes-christmas-background.jpg",
+          "bench": "activities-facepaint-themes-christmas-bench",
+          "brush": {
+            "bench_item": "activities-facepaint-themes-christmas-brush-bench_item",
+            "tip": "activities-facepaint-themes-christmas-brush-tip"
+          },
+          "facepaint1": {
+            "bench_item": "activities-facepaint-themes-christmas-facepaint1-bench_item",
+            "items": [
+              "activities-facepaint-themes-christmas-facepaint1-items-001",
+              "activities-facepaint-themes-christmas-facepaint1-items-002",
+              "activities-facepaint-themes-christmas-facepaint1-items-003",
+              "activities-facepaint-themes-christmas-facepaint1-items-004"
+            ],
+            "preview": "activities-facepaint-themes-christmas-facepaint1-preview",
+            "thumbs": [
+              "activities-facepaint-themes-christmas-facepaint1-thumbs-1",
+              "activities-facepaint-themes-christmas-facepaint1-thumbs-2",
+              "activities-facepaint-themes-christmas-facepaint1-thumbs-3",
+              "activities-facepaint-themes-christmas-facepaint1-thumbs-4"
+            ]
+          },
+          "facepaint2": {
+            "bench_item": "activities-facepaint-themes-christmas-facepaint2-bench_item",
+            "items": [
+              "activities-facepaint-themes-christmas-facepaint2-items-001",
+              "activities-facepaint-themes-christmas-facepaint2-items-002",
+              "activities-facepaint-themes-christmas-facepaint2-items-003",
+              "activities-facepaint-themes-christmas-facepaint2-items-004",
+              "activities-facepaint-themes-christmas-facepaint2-items-005",
+              "activities-facepaint-themes-christmas-facepaint2-items-006"
+            ],
+            "preview": "activities-facepaint-themes-christmas-facepaint2-preview",
+            "thumbs": [
+              "activities-facepaint-themes-christmas-facepaint2-thumbs-1",
+              "activities-facepaint-themes-christmas-facepaint2-thumbs-2",
+              "activities-facepaint-themes-christmas-facepaint2-thumbs-3",
+              "activities-facepaint-themes-christmas-facepaint2-thumbs-4",
+              "activities-facepaint-themes-christmas-facepaint2-thumbs-5",
+              "activities-facepaint-themes-christmas-facepaint2-thumbs-6"
+            ]
+          },
+          "facepaint3": {
+            "bench_item": "activities-facepaint-themes-christmas-facepaint3-bench_item",
+            "items": [
+              "activities-facepaint-themes-christmas-facepaint3-items-001",
+              "activities-facepaint-themes-christmas-facepaint3-items-002",
+              "activities-facepaint-themes-christmas-facepaint3-items-003",
+              "activities-facepaint-themes-christmas-facepaint3-items-004",
+              "activities-facepaint-themes-christmas-facepaint3-items-005"
+            ],
+            "preview": "activities-facepaint-themes-christmas-facepaint3-preview",
+            "thumbs": [
+              "activities-facepaint-themes-christmas-facepaint3-thumbs-1",
+              "activities-facepaint-themes-christmas-facepaint3-thumbs-2",
+              "activities-facepaint-themes-christmas-facepaint3-thumbs-3",
+              "activities-facepaint-themes-christmas-facepaint3-thumbs-4",
+              "activities-facepaint-themes-christmas-facepaint3-thumbs-5"
+            ]
+          },
+          "facepaint4": {
+            "bench_item": "activities-facepaint-themes-christmas-facepaint4-bench_item",
+            "items": [
+              "activities-facepaint-themes-christmas-facepaint4-items-001",
+              "activities-facepaint-themes-christmas-facepaint4-items-002"
+            ],
+            "preview": "activities-facepaint-themes-christmas-facepaint4-preview",
+            "thumbs": [
+              "activities-facepaint-themes-christmas-facepaint4-thumbs-1",
+              "activities-facepaint-themes-christmas-facepaint4-thumbs-2"
+            ]
+          },
+          "facepaint5": {
+            "bench_item": "activities-facepaint-themes-christmas-facepaint5-bench_item",
+            "items": [
+              "activities-facepaint-themes-christmas-facepaint5-items-001",
+              "activities-facepaint-themes-christmas-facepaint5-items-002",
+              "activities-facepaint-themes-christmas-facepaint5-items-003"
+            ],
+            "preview": "activities-facepaint-themes-christmas-facepaint5-preview",
+            "thumbs": [
+              "activities-facepaint-themes-christmas-facepaint5-thumbs-1",
+              "activities-facepaint-themes-christmas-facepaint5-thumbs-2",
+              "activities-facepaint-themes-christmas-facepaint5-thumbs-3"
+            ]
+          },
+          "facepaint6": {
+            "bench_item": "activities-facepaint-themes-christmas-facepaint6-bench_item",
+            "items": [
+              "activities-facepaint-themes-christmas-facepaint6-items-001",
+              "activities-facepaint-themes-christmas-facepaint6-items-002",
+              "activities-facepaint-themes-christmas-facepaint6-items-003",
+              "activities-facepaint-themes-christmas-facepaint6-items-004"
+            ],
+            "preview": "activities-facepaint-themes-christmas-facepaint6-preview",
+            "thumbs": [
+              "activities-facepaint-themes-christmas-facepaint6-thumbs-1",
+              "activities-facepaint-themes-christmas-facepaint6-thumbs-2",
+              "activities-facepaint-themes-christmas-facepaint6-thumbs-3",
+              "activities-facepaint-themes-christmas-facepaint6-thumbs-4"
+            ]
+          },
+          "facepaint7": {
+            "bench_item": "activities-facepaint-themes-christmas-facepaint7-bench_item",
+            "items": [
+              "activities-facepaint-themes-christmas-facepaint7-items-001",
+              "activities-facepaint-themes-christmas-facepaint7-items-002"
+            ],
+            "preview": "activities-facepaint-themes-christmas-facepaint7-preview",
+            "thumbs": [
+              "activities-facepaint-themes-christmas-facepaint7-thumbs-1",
+              "activities-facepaint-themes-christmas-facepaint7-thumbs-2"
+            ]
+          },
+          "facepaint8": {
+            "bench_item": "activities-facepaint-themes-christmas-facepaint8-bench_item",
+            "items": [
+              "activities-facepaint-themes-christmas-facepaint8-items-001",
+              "activities-facepaint-themes-christmas-facepaint8-items-002",
+              "activities-facepaint-themes-christmas-facepaint8-items-003",
+              "activities-facepaint-themes-christmas-facepaint8-items-004",
+              "activities-facepaint-themes-christmas-facepaint8-items-005"
+            ],
+            "preview": "activities-facepaint-themes-christmas-facepaint8-preview",
+            "thumbs": [
+              "activities-facepaint-themes-christmas-facepaint8-thumbs-1",
+              "activities-facepaint-themes-christmas-facepaint8-thumbs-2",
+              "activities-facepaint-themes-christmas-facepaint8-thumbs-3",
+              "activities-facepaint-themes-christmas-facepaint8-thumbs-4",
+              "activities-facepaint-themes-christmas-facepaint8-thumbs-5"
+            ]
+          },
+          "glasses": {
+            "bench_item": "activities-facepaint-themes-christmas-glasses-bench_item",
+            "items": [
+              "activities-facepaint-themes-christmas-glasses-items-000",
+              "activities-facepaint-themes-christmas-glasses-items-001",
+              "activities-facepaint-themes-christmas-glasses-items-002",
+              "activities-facepaint-themes-christmas-glasses-items-003",
+              "activities-facepaint-themes-christmas-glasses-items-004",
+              "activities-facepaint-themes-christmas-glasses-items-005",
+              "activities-facepaint-themes-christmas-glasses-items-006",
+              "activities-facepaint-themes-christmas-glasses-items-007",
+              "activities-facepaint-themes-christmas-glasses-items-008",
+              "activities-facepaint-themes-christmas-glasses-items-009",
+              "activities-facepaint-themes-christmas-glasses-items-010"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-christmas-glasses-thumbs-000",
+              "activities-facepaint-themes-christmas-glasses-thumbs-001",
+              "activities-facepaint-themes-christmas-glasses-thumbs-002",
+              "activities-facepaint-themes-christmas-glasses-thumbs-003",
+              "activities-facepaint-themes-christmas-glasses-thumbs-004",
+              "activities-facepaint-themes-christmas-glasses-thumbs-005",
+              "activities-facepaint-themes-christmas-glasses-thumbs-006",
+              "activities-facepaint-themes-christmas-glasses-thumbs-007",
+              "activities-facepaint-themes-christmas-glasses-thumbs-008",
+              "activities-facepaint-themes-christmas-glasses-thumbs-009",
+              "activities-facepaint-themes-christmas-glasses-thumbs-010"
+            ]
+          },
+          "hairs": {
+            "bench_item": "activities-facepaint-themes-christmas-hairs-bench_item",
+            "items": [
+              "activities-facepaint-themes-christmas-hairs-items-001",
+              "activities-facepaint-themes-christmas-hairs-items-002",
+              "activities-facepaint-themes-christmas-hairs-items-003",
+              "activities-facepaint-themes-christmas-hairs-items-004",
+              "activities-facepaint-themes-christmas-hairs-items-005",
+              "activities-facepaint-themes-christmas-hairs-items-006",
+              "activities-facepaint-themes-christmas-hairs-items-007",
+              "activities-facepaint-themes-christmas-hairs-items-008",
+              "activities-facepaint-themes-christmas-hairs-items-009",
+              "activities-facepaint-themes-christmas-hairs-items-010",
+              "activities-facepaint-themes-christmas-hairs-items-011",
+              "activities-facepaint-themes-christmas-hairs-items-012"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-christmas-hairs-thumbs-001",
+              "activities-facepaint-themes-christmas-hairs-thumbs-002",
+              "activities-facepaint-themes-christmas-hairs-thumbs-003",
+              "activities-facepaint-themes-christmas-hairs-thumbs-004",
+              "activities-facepaint-themes-christmas-hairs-thumbs-005",
+              "activities-facepaint-themes-christmas-hairs-thumbs-006",
+              "activities-facepaint-themes-christmas-hairs-thumbs-007",
+              "activities-facepaint-themes-christmas-hairs-thumbs-008",
+              "activities-facepaint-themes-christmas-hairs-thumbs-009",
+              "activities-facepaint-themes-christmas-hairs-thumbs-010",
+              "activities-facepaint-themes-christmas-hairs-thumbs-011",
+              "activities-facepaint-themes-christmas-hairs-thumbs-012"
+            ]
+          },
+          "hats": {
+            "bench_item": "activities-facepaint-themes-christmas-hats-bench_item",
+            "items": [
+              "activities-facepaint-themes-christmas-hats-items-000",
+              "activities-facepaint-themes-christmas-hats-items-001",
+              "activities-facepaint-themes-christmas-hats-items-002",
+              "activities-facepaint-themes-christmas-hats-items-003",
+              "activities-facepaint-themes-christmas-hats-items-004",
+              "activities-facepaint-themes-christmas-hats-items-005",
+              "activities-facepaint-themes-christmas-hats-items-006",
+              "activities-facepaint-themes-christmas-hats-items-007",
+              "activities-facepaint-themes-christmas-hats-items-008",
+              "activities-facepaint-themes-christmas-hats-items-009",
+              "activities-facepaint-themes-christmas-hats-items-010"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-christmas-hats-thumbs-000",
+              "activities-facepaint-themes-christmas-hats-thumbs-001",
+              "activities-facepaint-themes-christmas-hats-thumbs-002",
+              "activities-facepaint-themes-christmas-hats-thumbs-003",
+              "activities-facepaint-themes-christmas-hats-thumbs-004",
+              "activities-facepaint-themes-christmas-hats-thumbs-005",
+              "activities-facepaint-themes-christmas-hats-thumbs-006",
+              "activities-facepaint-themes-christmas-hats-thumbs-007",
+              "activities-facepaint-themes-christmas-hats-thumbs-008",
+              "activities-facepaint-themes-christmas-hats-thumbs-009",
+              "activities-facepaint-themes-christmas-hats-thumbs-010"
+            ]
+          },
+          "outfits": {
+            "bench_item": "activities-facepaint-themes-christmas-outfits-bench_item",
+            "items": [
+              "activities-facepaint-themes-christmas-outfits-items-001",
+              "activities-facepaint-themes-christmas-outfits-items-002",
+              "activities-facepaint-themes-christmas-outfits-items-003",
+              "activities-facepaint-themes-christmas-outfits-items-004",
+              "activities-facepaint-themes-christmas-outfits-items-005",
+              "activities-facepaint-themes-christmas-outfits-items-006",
+              "activities-facepaint-themes-christmas-outfits-items-007",
+              "activities-facepaint-themes-christmas-outfits-items-008",
+              "activities-facepaint-themes-christmas-outfits-items-009",
+              "activities-facepaint-themes-christmas-outfits-items-010"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-christmas-outfits-thumbs-001",
+              "activities-facepaint-themes-christmas-outfits-thumbs-002",
+              "activities-facepaint-themes-christmas-outfits-thumbs-003",
+              "activities-facepaint-themes-christmas-outfits-thumbs-004",
+              "activities-facepaint-themes-christmas-outfits-thumbs-005",
+              "activities-facepaint-themes-christmas-outfits-thumbs-006",
+              "activities-facepaint-themes-christmas-outfits-thumbs-007",
+              "activities-facepaint-themes-christmas-outfits-thumbs-008",
+              "activities-facepaint-themes-christmas-outfits-thumbs-009",
+              "activities-facepaint-themes-christmas-outfits-thumbs-010"
+            ]
+          }
+        },
+        "frozen": {
+          "background": "activities-facepaint-themes-frozen-background.jpg",
+          "bench": "activities-facepaint-themes-frozen-bench",
+          "brush": {
+            "bench_item": "activities-facepaint-themes-frozen-brush-bench_item",
+            "tip": "activities-facepaint-themes-frozen-brush-tip"
+          },
+          "facepaint1": {
+            "bench_item": "activities-facepaint-themes-frozen-facepaint1-bench_item",
+            "items": [
+              "activities-facepaint-themes-frozen-facepaint1-items-001",
+              "activities-facepaint-themes-frozen-facepaint1-items-002",
+              "activities-facepaint-themes-frozen-facepaint1-items-003",
+              "activities-facepaint-themes-frozen-facepaint1-items-004",
+              "activities-facepaint-themes-frozen-facepaint1-items-005"
+            ],
+            "preview": "activities-facepaint-themes-frozen-facepaint1-preview",
+            "thumbs": [
+              "activities-facepaint-themes-frozen-facepaint1-thumbs-1",
+              "activities-facepaint-themes-frozen-facepaint1-thumbs-2",
+              "activities-facepaint-themes-frozen-facepaint1-thumbs-3",
+              "activities-facepaint-themes-frozen-facepaint1-thumbs-4",
+              "activities-facepaint-themes-frozen-facepaint1-thumbs-5"
+            ]
+          },
+          "facepaint2": {
+            "bench_item": "activities-facepaint-themes-frozen-facepaint2-bench_item",
+            "items": [
+              "activities-facepaint-themes-frozen-facepaint2-items-001",
+              "activities-facepaint-themes-frozen-facepaint2-items-002",
+              "activities-facepaint-themes-frozen-facepaint2-items-003"
+            ],
+            "preview": "activities-facepaint-themes-frozen-facepaint2-preview",
+            "thumbs": [
+              "activities-facepaint-themes-frozen-facepaint2-thumbs-1",
+              "activities-facepaint-themes-frozen-facepaint2-thumbs-2",
+              "activities-facepaint-themes-frozen-facepaint2-thumbs-3"
+            ]
+          },
+          "facepaint3": {
+            "bench_item": "activities-facepaint-themes-frozen-facepaint3-bench_item",
+            "items": [
+              "activities-facepaint-themes-frozen-facepaint3-items-001",
+              "activities-facepaint-themes-frozen-facepaint3-items-002",
+              "activities-facepaint-themes-frozen-facepaint3-items-003",
+              "activities-facepaint-themes-frozen-facepaint3-items-004",
+              "activities-facepaint-themes-frozen-facepaint3-items-005",
+              "activities-facepaint-themes-frozen-facepaint3-items-006"
+            ],
+            "preview": "activities-facepaint-themes-frozen-facepaint3-preview",
+            "thumbs": [
+              "activities-facepaint-themes-frozen-facepaint3-thumbs-1",
+              "activities-facepaint-themes-frozen-facepaint3-thumbs-2",
+              "activities-facepaint-themes-frozen-facepaint3-thumbs-3",
+              "activities-facepaint-themes-frozen-facepaint3-thumbs-4",
+              "activities-facepaint-themes-frozen-facepaint3-thumbs-5",
+              "activities-facepaint-themes-frozen-facepaint3-thumbs-6"
+            ]
+          },
+          "facepaint4": {
+            "bench_item": "activities-facepaint-themes-frozen-facepaint4-bench_item",
+            "items": [
+              "activities-facepaint-themes-frozen-facepaint4-items-001",
+              "activities-facepaint-themes-frozen-facepaint4-items-002",
+              "activities-facepaint-themes-frozen-facepaint4-items-003"
+            ],
+            "preview": "activities-facepaint-themes-frozen-facepaint4-preview",
+            "thumbs": [
+              "activities-facepaint-themes-frozen-facepaint4-thumbs-1",
+              "activities-facepaint-themes-frozen-facepaint4-thumbs-2",
+              "activities-facepaint-themes-frozen-facepaint4-thumbs-3"
+            ]
+          },
+          "facepaint5": {
+            "bench_item": "activities-facepaint-themes-frozen-facepaint5-bench_item",
+            "items": [
+              "activities-facepaint-themes-frozen-facepaint5-items-001",
+              "activities-facepaint-themes-frozen-facepaint5-items-002",
+              "activities-facepaint-themes-frozen-facepaint5-items-003"
+            ],
+            "preview": "activities-facepaint-themes-frozen-facepaint5-preview",
+            "thumbs": [
+              "activities-facepaint-themes-frozen-facepaint5-thumbs-1",
+              "activities-facepaint-themes-frozen-facepaint5-thumbs-2",
+              "activities-facepaint-themes-frozen-facepaint5-thumbs-3"
+            ]
+          },
+          "facepaint6": {
+            "bench_item": "activities-facepaint-themes-frozen-facepaint6-bench_item",
+            "items": [
+              "activities-facepaint-themes-frozen-facepaint6-items-001",
+              "activities-facepaint-themes-frozen-facepaint6-items-002",
+              "activities-facepaint-themes-frozen-facepaint6-items-003",
+              "activities-facepaint-themes-frozen-facepaint6-items-004"
+            ],
+            "preview": "activities-facepaint-themes-frozen-facepaint6-preview",
+            "thumbs": [
+              "activities-facepaint-themes-frozen-facepaint6-thumbs-1",
+              "activities-facepaint-themes-frozen-facepaint6-thumbs-2",
+              "activities-facepaint-themes-frozen-facepaint6-thumbs-3",
+              "activities-facepaint-themes-frozen-facepaint6-thumbs-4"
+            ]
+          },
+          "facepaint7": {
+            "bench_item": "activities-facepaint-themes-frozen-facepaint7-bench_item",
+            "items": [
+              "activities-facepaint-themes-frozen-facepaint7-items-001",
+              "activities-facepaint-themes-frozen-facepaint7-items-002",
+              "activities-facepaint-themes-frozen-facepaint7-items-003"
+            ],
+            "preview": "activities-facepaint-themes-frozen-facepaint7-preview",
+            "thumbs": [
+              "activities-facepaint-themes-frozen-facepaint7-thumbs-1",
+              "activities-facepaint-themes-frozen-facepaint7-thumbs-2",
+              "activities-facepaint-themes-frozen-facepaint7-thumbs-3"
+            ]
+          },
+          "facepaint8": {
+            "bench_item": "activities-facepaint-themes-frozen-facepaint8-bench_item",
+            "items": [
+              "activities-facepaint-themes-frozen-facepaint8-items-001",
+              "activities-facepaint-themes-frozen-facepaint8-items-002",
+              "activities-facepaint-themes-frozen-facepaint8-items-003",
+              "activities-facepaint-themes-frozen-facepaint8-items-004",
+              "activities-facepaint-themes-frozen-facepaint8-items-005"
+            ],
+            "preview": "activities-facepaint-themes-frozen-facepaint8-preview",
+            "thumbs": [
+              "activities-facepaint-themes-frozen-facepaint8-thumbs-1",
+              "activities-facepaint-themes-frozen-facepaint8-thumbs-2",
+              "activities-facepaint-themes-frozen-facepaint8-thumbs-3",
+              "activities-facepaint-themes-frozen-facepaint8-thumbs-4",
+              "activities-facepaint-themes-frozen-facepaint8-thumbs-5"
+            ]
+          },
+          "glasses": {
+            "bench_item": "activities-facepaint-themes-frozen-glasses-bench_item",
+            "items": [
+              "activities-facepaint-themes-frozen-glasses-items-000",
+              "activities-facepaint-themes-frozen-glasses-items-001",
+              "activities-facepaint-themes-frozen-glasses-items-002",
+              "activities-facepaint-themes-frozen-glasses-items-003",
+              "activities-facepaint-themes-frozen-glasses-items-004",
+              "activities-facepaint-themes-frozen-glasses-items-005",
+              "activities-facepaint-themes-frozen-glasses-items-006",
+              "activities-facepaint-themes-frozen-glasses-items-007",
+              "activities-facepaint-themes-frozen-glasses-items-008",
+              "activities-facepaint-themes-frozen-glasses-items-009",
+              "activities-facepaint-themes-frozen-glasses-items-010"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-frozen-glasses-thumbs-000",
+              "activities-facepaint-themes-frozen-glasses-thumbs-001",
+              "activities-facepaint-themes-frozen-glasses-thumbs-002",
+              "activities-facepaint-themes-frozen-glasses-thumbs-003",
+              "activities-facepaint-themes-frozen-glasses-thumbs-004",
+              "activities-facepaint-themes-frozen-glasses-thumbs-005",
+              "activities-facepaint-themes-frozen-glasses-thumbs-006",
+              "activities-facepaint-themes-frozen-glasses-thumbs-007",
+              "activities-facepaint-themes-frozen-glasses-thumbs-008",
+              "activities-facepaint-themes-frozen-glasses-thumbs-009",
+              "activities-facepaint-themes-frozen-glasses-thumbs-010"
+            ]
+          },
+          "hairs": {
+            "bench_item": "activities-facepaint-themes-frozen-hairs-bench_item",
+            "items": [
+              "activities-facepaint-themes-frozen-hairs-items-001",
+              "activities-facepaint-themes-frozen-hairs-items-002",
+              "activities-facepaint-themes-frozen-hairs-items-003",
+              "activities-facepaint-themes-frozen-hairs-items-004",
+              "activities-facepaint-themes-frozen-hairs-items-005",
+              "activities-facepaint-themes-frozen-hairs-items-006",
+              "activities-facepaint-themes-frozen-hairs-items-007",
+              "activities-facepaint-themes-frozen-hairs-items-008",
+              "activities-facepaint-themes-frozen-hairs-items-009",
+              "activities-facepaint-themes-frozen-hairs-items-010",
+              "activities-facepaint-themes-frozen-hairs-items-011",
+              "activities-facepaint-themes-frozen-hairs-items-012"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-frozen-hairs-thumbs-001",
+              "activities-facepaint-themes-frozen-hairs-thumbs-002",
+              "activities-facepaint-themes-frozen-hairs-thumbs-003",
+              "activities-facepaint-themes-frozen-hairs-thumbs-004",
+              "activities-facepaint-themes-frozen-hairs-thumbs-005",
+              "activities-facepaint-themes-frozen-hairs-thumbs-006",
+              "activities-facepaint-themes-frozen-hairs-thumbs-007",
+              "activities-facepaint-themes-frozen-hairs-thumbs-008",
+              "activities-facepaint-themes-frozen-hairs-thumbs-009",
+              "activities-facepaint-themes-frozen-hairs-thumbs-010",
+              "activities-facepaint-themes-frozen-hairs-thumbs-011",
+              "activities-facepaint-themes-frozen-hairs-thumbs-012"
+            ]
+          },
+          "hats": {
+            "bench_item": "activities-facepaint-themes-frozen-hats-bench_item",
+            "items": [
+              "activities-facepaint-themes-frozen-hats-items-000",
+              "activities-facepaint-themes-frozen-hats-items-001",
+              "activities-facepaint-themes-frozen-hats-items-002",
+              "activities-facepaint-themes-frozen-hats-items-003",
+              "activities-facepaint-themes-frozen-hats-items-004",
+              "activities-facepaint-themes-frozen-hats-items-005",
+              "activities-facepaint-themes-frozen-hats-items-006",
+              "activities-facepaint-themes-frozen-hats-items-007",
+              "activities-facepaint-themes-frozen-hats-items-008",
+              "activities-facepaint-themes-frozen-hats-items-009",
+              "activities-facepaint-themes-frozen-hats-items-010"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-frozen-hats-thumbs-000",
+              "activities-facepaint-themes-frozen-hats-thumbs-001",
+              "activities-facepaint-themes-frozen-hats-thumbs-002",
+              "activities-facepaint-themes-frozen-hats-thumbs-003",
+              "activities-facepaint-themes-frozen-hats-thumbs-004",
+              "activities-facepaint-themes-frozen-hats-thumbs-005",
+              "activities-facepaint-themes-frozen-hats-thumbs-006",
+              "activities-facepaint-themes-frozen-hats-thumbs-007",
+              "activities-facepaint-themes-frozen-hats-thumbs-008",
+              "activities-facepaint-themes-frozen-hats-thumbs-009",
+              "activities-facepaint-themes-frozen-hats-thumbs-010"
+            ]
+          },
+          "outfits": {
+            "bench_item": "activities-facepaint-themes-frozen-outfits-bench_item",
+            "items": [
+              "activities-facepaint-themes-frozen-outfits-items-001",
+              "activities-facepaint-themes-frozen-outfits-items-002",
+              "activities-facepaint-themes-frozen-outfits-items-003",
+              "activities-facepaint-themes-frozen-outfits-items-004",
+              "activities-facepaint-themes-frozen-outfits-items-005",
+              "activities-facepaint-themes-frozen-outfits-items-006",
+              "activities-facepaint-themes-frozen-outfits-items-007",
+              "activities-facepaint-themes-frozen-outfits-items-008",
+              "activities-facepaint-themes-frozen-outfits-items-009",
+              "activities-facepaint-themes-frozen-outfits-items-010"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-frozen-outfits-thumbs-001",
+              "activities-facepaint-themes-frozen-outfits-thumbs-002",
+              "activities-facepaint-themes-frozen-outfits-thumbs-003",
+              "activities-facepaint-themes-frozen-outfits-thumbs-004",
+              "activities-facepaint-themes-frozen-outfits-thumbs-005",
+              "activities-facepaint-themes-frozen-outfits-thumbs-006",
+              "activities-facepaint-themes-frozen-outfits-thumbs-007",
+              "activities-facepaint-themes-frozen-outfits-thumbs-008",
+              "activities-facepaint-themes-frozen-outfits-thumbs-009",
+              "activities-facepaint-themes-frozen-outfits-thumbs-010"
+            ]
+          }
+        },
+        "santa": {
+          "background": "activities-facepaint-themes-santa-background.jpg",
+          "bench": "activities-facepaint-themes-santa-bench",
+          "brush": {
+            "bench_item": "activities-facepaint-themes-santa-brush-bench_item",
+            "tip": "activities-facepaint-themes-santa-brush-tip"
+          },
+          "facepaint1": {
+            "bench_item": "activities-facepaint-themes-santa-facepaint1-bench_item",
+            "items": [
+              "activities-facepaint-themes-santa-facepaint1-items-001",
+              "activities-facepaint-themes-santa-facepaint1-items-002",
+              "activities-facepaint-themes-santa-facepaint1-items-003",
+              "activities-facepaint-themes-santa-facepaint1-items-004"
+            ],
+            "preview": "activities-facepaint-themes-santa-facepaint1-preview",
+            "thumbs": [
+              "activities-facepaint-themes-santa-facepaint1-thumbs-1",
+              "activities-facepaint-themes-santa-facepaint1-thumbs-2",
+              "activities-facepaint-themes-santa-facepaint1-thumbs-3",
+              "activities-facepaint-themes-santa-facepaint1-thumbs-4"
+            ]
+          },
+          "facepaint2": {
+            "bench_item": "activities-facepaint-themes-santa-facepaint2-bench_item",
+            "items": [
+              "activities-facepaint-themes-santa-facepaint2-items-001",
+              "activities-facepaint-themes-santa-facepaint2-items-002",
+              "activities-facepaint-themes-santa-facepaint2-items-003"
+            ],
+            "preview": "activities-facepaint-themes-santa-facepaint2-preview",
+            "thumbs": [
+              "activities-facepaint-themes-santa-facepaint2-thumbs-1",
+              "activities-facepaint-themes-santa-facepaint2-thumbs-2",
+              "activities-facepaint-themes-santa-facepaint2-thumbs-3"
+            ]
+          },
+          "facepaint3": {
+            "bench_item": "activities-facepaint-themes-santa-facepaint3-bench_item",
+            "items": [
+              "activities-facepaint-themes-santa-facepaint3-items-001",
+              "activities-facepaint-themes-santa-facepaint3-items-002",
+              "activities-facepaint-themes-santa-facepaint3-items-003",
+              "activities-facepaint-themes-santa-facepaint3-items-004",
+              "activities-facepaint-themes-santa-facepaint3-items-005"
+            ],
+            "preview": "activities-facepaint-themes-santa-facepaint3-preview",
+            "thumbs": [
+              "activities-facepaint-themes-santa-facepaint3-thumbs-1",
+              "activities-facepaint-themes-santa-facepaint3-thumbs-2",
+              "activities-facepaint-themes-santa-facepaint3-thumbs-3",
+              "activities-facepaint-themes-santa-facepaint3-thumbs-4",
+              "activities-facepaint-themes-santa-facepaint3-thumbs-5"
+            ]
+          },
+          "facepaint4": {
+            "bench_item": "activities-facepaint-themes-santa-facepaint4-bench_item",
+            "items": [
+              "activities-facepaint-themes-santa-facepaint4-items-001",
+              "activities-facepaint-themes-santa-facepaint4-items-002",
+              "activities-facepaint-themes-santa-facepaint4-items-003"
+            ],
+            "preview": "activities-facepaint-themes-santa-facepaint4-preview",
+            "thumbs": [
+              "activities-facepaint-themes-santa-facepaint4-thumbs-1",
+              "activities-facepaint-themes-santa-facepaint4-thumbs-2",
+              "activities-facepaint-themes-santa-facepaint4-thumbs-3"
+            ]
+          },
+          "facepaint5": {
+            "bench_item": "activities-facepaint-themes-santa-facepaint5-bench_item",
+            "items": [
+              "activities-facepaint-themes-santa-facepaint5-items-001",
+              "activities-facepaint-themes-santa-facepaint5-items-002",
+              "activities-facepaint-themes-santa-facepaint5-items-003",
+              "activities-facepaint-themes-santa-facepaint5-items-004",
+              "activities-facepaint-themes-santa-facepaint5-items-005"
+            ],
+            "preview": "activities-facepaint-themes-santa-facepaint5-preview",
+            "thumbs": [
+              "activities-facepaint-themes-santa-facepaint5-thumbs-1",
+              "activities-facepaint-themes-santa-facepaint5-thumbs-2",
+              "activities-facepaint-themes-santa-facepaint5-thumbs-3",
+              "activities-facepaint-themes-santa-facepaint5-thumbs-4",
+              "activities-facepaint-themes-santa-facepaint5-thumbs-5"
+            ]
+          },
+          "facepaint6": {
+            "bench_item": "activities-facepaint-themes-santa-facepaint6-bench_item",
+            "items": [
+              "activities-facepaint-themes-santa-facepaint6-items-001",
+              "activities-facepaint-themes-santa-facepaint6-items-002",
+              "activities-facepaint-themes-santa-facepaint6-items-003"
+            ],
+            "preview": "activities-facepaint-themes-santa-facepaint6-preview",
+            "thumbs": [
+              "activities-facepaint-themes-santa-facepaint6-thumbs-1",
+              "activities-facepaint-themes-santa-facepaint6-thumbs-2",
+              "activities-facepaint-themes-santa-facepaint6-thumbs-3"
+            ]
+          },
+          "facepaint7": {
+            "bench_item": "activities-facepaint-themes-santa-facepaint7-bench_item",
+            "items": [
+              "activities-facepaint-themes-santa-facepaint7-items-001",
+              "activities-facepaint-themes-santa-facepaint7-items-002",
+              "activities-facepaint-themes-santa-facepaint7-items-003"
+            ],
+            "preview": "activities-facepaint-themes-santa-facepaint7-preview",
+            "thumbs": [
+              "activities-facepaint-themes-santa-facepaint7-thumbs-1",
+              "activities-facepaint-themes-santa-facepaint7-thumbs-2",
+              "activities-facepaint-themes-santa-facepaint7-thumbs-3"
+            ]
+          },
+          "facepaint8": {
+            "bench_item": "activities-facepaint-themes-santa-facepaint8-bench_item",
+            "items": [
+              "activities-facepaint-themes-santa-facepaint8-items-001",
+              "activities-facepaint-themes-santa-facepaint8-items-002",
+              "activities-facepaint-themes-santa-facepaint8-items-003",
+              "activities-facepaint-themes-santa-facepaint8-items-004"
+            ],
+            "preview": "activities-facepaint-themes-santa-facepaint8-preview",
+            "thumbs": [
+              "activities-facepaint-themes-santa-facepaint8-thumbs-1",
+              "activities-facepaint-themes-santa-facepaint8-thumbs-2",
+              "activities-facepaint-themes-santa-facepaint8-thumbs-3",
+              "activities-facepaint-themes-santa-facepaint8-thumbs-4"
+            ]
+          },
+          "glasses": {
+            "bench_item": "activities-facepaint-themes-santa-glasses-bench_item",
+            "items": [
+              "activities-facepaint-themes-santa-glasses-items-000",
+              "activities-facepaint-themes-santa-glasses-items-001",
+              "activities-facepaint-themes-santa-glasses-items-002",
+              "activities-facepaint-themes-santa-glasses-items-003",
+              "activities-facepaint-themes-santa-glasses-items-004",
+              "activities-facepaint-themes-santa-glasses-items-005",
+              "activities-facepaint-themes-santa-glasses-items-006",
+              "activities-facepaint-themes-santa-glasses-items-007",
+              "activities-facepaint-themes-santa-glasses-items-008",
+              "activities-facepaint-themes-santa-glasses-items-009",
+              "activities-facepaint-themes-santa-glasses-items-010"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-santa-glasses-thumbs-000",
+              "activities-facepaint-themes-santa-glasses-thumbs-001",
+              "activities-facepaint-themes-santa-glasses-thumbs-002",
+              "activities-facepaint-themes-santa-glasses-thumbs-003",
+              "activities-facepaint-themes-santa-glasses-thumbs-004",
+              "activities-facepaint-themes-santa-glasses-thumbs-005",
+              "activities-facepaint-themes-santa-glasses-thumbs-006",
+              "activities-facepaint-themes-santa-glasses-thumbs-007",
+              "activities-facepaint-themes-santa-glasses-thumbs-008",
+              "activities-facepaint-themes-santa-glasses-thumbs-009",
+              "activities-facepaint-themes-santa-glasses-thumbs-010"
+            ]
+          },
+          "hairs": {
+            "bench_item": "activities-facepaint-themes-santa-hairs-bench_item",
+            "items": [
+              "activities-facepaint-themes-santa-hairs-items-001",
+              "activities-facepaint-themes-santa-hairs-items-002",
+              "activities-facepaint-themes-santa-hairs-items-003",
+              "activities-facepaint-themes-santa-hairs-items-004",
+              "activities-facepaint-themes-santa-hairs-items-005",
+              "activities-facepaint-themes-santa-hairs-items-006",
+              "activities-facepaint-themes-santa-hairs-items-007",
+              "activities-facepaint-themes-santa-hairs-items-008",
+              "activities-facepaint-themes-santa-hairs-items-009",
+              "activities-facepaint-themes-santa-hairs-items-010",
+              "activities-facepaint-themes-santa-hairs-items-011",
+              "activities-facepaint-themes-santa-hairs-items-012"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-santa-hairs-thumbs-001",
+              "activities-facepaint-themes-santa-hairs-thumbs-002",
+              "activities-facepaint-themes-santa-hairs-thumbs-003",
+              "activities-facepaint-themes-santa-hairs-thumbs-004",
+              "activities-facepaint-themes-santa-hairs-thumbs-005",
+              "activities-facepaint-themes-santa-hairs-thumbs-006",
+              "activities-facepaint-themes-santa-hairs-thumbs-007",
+              "activities-facepaint-themes-santa-hairs-thumbs-008",
+              "activities-facepaint-themes-santa-hairs-thumbs-009",
+              "activities-facepaint-themes-santa-hairs-thumbs-010",
+              "activities-facepaint-themes-santa-hairs-thumbs-011",
+              "activities-facepaint-themes-santa-hairs-thumbs-012"
+            ]
+          },
+          "hats": {
+            "bench_item": "activities-facepaint-themes-santa-hats-bench_item",
+            "items": [
+              "activities-facepaint-themes-santa-hats-items-000",
+              "activities-facepaint-themes-santa-hats-items-001",
+              "activities-facepaint-themes-santa-hats-items-002",
+              "activities-facepaint-themes-santa-hats-items-003",
+              "activities-facepaint-themes-santa-hats-items-004",
+              "activities-facepaint-themes-santa-hats-items-005",
+              "activities-facepaint-themes-santa-hats-items-006",
+              "activities-facepaint-themes-santa-hats-items-007",
+              "activities-facepaint-themes-santa-hats-items-008",
+              "activities-facepaint-themes-santa-hats-items-009",
+              "activities-facepaint-themes-santa-hats-items-010"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-santa-hats-thumbs-000",
+              "activities-facepaint-themes-santa-hats-thumbs-001",
+              "activities-facepaint-themes-santa-hats-thumbs-002",
+              "activities-facepaint-themes-santa-hats-thumbs-003",
+              "activities-facepaint-themes-santa-hats-thumbs-004",
+              "activities-facepaint-themes-santa-hats-thumbs-005",
+              "activities-facepaint-themes-santa-hats-thumbs-006",
+              "activities-facepaint-themes-santa-hats-thumbs-007",
+              "activities-facepaint-themes-santa-hats-thumbs-008",
+              "activities-facepaint-themes-santa-hats-thumbs-009",
+              "activities-facepaint-themes-santa-hats-thumbs-010"
+            ]
+          },
+          "outfits": {
+            "bench_item": "activities-facepaint-themes-santa-outfits-bench_item",
+            "items": [
+              "activities-facepaint-themes-santa-outfits-items-001",
+              "activities-facepaint-themes-santa-outfits-items-002",
+              "activities-facepaint-themes-santa-outfits-items-003",
+              "activities-facepaint-themes-santa-outfits-items-004",
+              "activities-facepaint-themes-santa-outfits-items-005",
+              "activities-facepaint-themes-santa-outfits-items-006",
+              "activities-facepaint-themes-santa-outfits-items-007",
+              "activities-facepaint-themes-santa-outfits-items-008",
+              "activities-facepaint-themes-santa-outfits-items-009",
+              "activities-facepaint-themes-santa-outfits-items-010"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-santa-outfits-thumbs-001",
+              "activities-facepaint-themes-santa-outfits-thumbs-002",
+              "activities-facepaint-themes-santa-outfits-thumbs-003",
+              "activities-facepaint-themes-santa-outfits-thumbs-004",
+              "activities-facepaint-themes-santa-outfits-thumbs-005",
+              "activities-facepaint-themes-santa-outfits-thumbs-006",
+              "activities-facepaint-themes-santa-outfits-thumbs-007",
+              "activities-facepaint-themes-santa-outfits-thumbs-008",
+              "activities-facepaint-themes-santa-outfits-thumbs-009",
+              "activities-facepaint-themes-santa-outfits-thumbs-010"
+            ]
+          }
+        },
+        "snowman": {
+          "background": "activities-facepaint-themes-snowman-background.jpg",
+          "bench": "activities-facepaint-themes-snowman-bench",
+          "brush": {
+            "bench_item": "activities-facepaint-themes-snowman-brush-bench_item",
+            "tip": "activities-facepaint-themes-snowman-brush-tip"
+          },
+          "facepaint1": {
+            "bench_item": "activities-facepaint-themes-snowman-facepaint1-bench_item",
+            "items": [
+              "activities-facepaint-themes-snowman-facepaint1-items-001",
+              "activities-facepaint-themes-snowman-facepaint1-items-002",
+              "activities-facepaint-themes-snowman-facepaint1-items-003",
+              "activities-facepaint-themes-snowman-facepaint1-items-004"
+            ],
+            "preview": "activities-facepaint-themes-snowman-facepaint1-preview",
+            "thumbs": [
+              "activities-facepaint-themes-snowman-facepaint1-thumbs-1",
+              "activities-facepaint-themes-snowman-facepaint1-thumbs-2",
+              "activities-facepaint-themes-snowman-facepaint1-thumbs-3",
+              "activities-facepaint-themes-snowman-facepaint1-thumbs-4"
+            ]
+          },
+          "facepaint2": {
+            "bench_item": "activities-facepaint-themes-snowman-facepaint2-bench_item",
+            "items": [
+              "activities-facepaint-themes-snowman-facepaint2-items-001",
+              "activities-facepaint-themes-snowman-facepaint2-items-002",
+              "activities-facepaint-themes-snowman-facepaint2-items-003",
+              "activities-facepaint-themes-snowman-facepaint2-items-004",
+              "activities-facepaint-themes-snowman-facepaint2-items-005"
+            ],
+            "preview": "activities-facepaint-themes-snowman-facepaint2-preview",
+            "thumbs": [
+              "activities-facepaint-themes-snowman-facepaint2-thumbs-1",
+              "activities-facepaint-themes-snowman-facepaint2-thumbs-2",
+              "activities-facepaint-themes-snowman-facepaint2-thumbs-3",
+              "activities-facepaint-themes-snowman-facepaint2-thumbs-4",
+              "activities-facepaint-themes-snowman-facepaint2-thumbs-5"
+            ]
+          },
+          "facepaint3": {
+            "bench_item": "activities-facepaint-themes-snowman-facepaint3-bench_item",
+            "items": [
+              "activities-facepaint-themes-snowman-facepaint3-items-001",
+              "activities-facepaint-themes-snowman-facepaint3-items-002",
+              "activities-facepaint-themes-snowman-facepaint3-items-003",
+              "activities-facepaint-themes-snowman-facepaint3-items-004",
+              "activities-facepaint-themes-snowman-facepaint3-items-005"
+            ],
+            "preview": "activities-facepaint-themes-snowman-facepaint3-preview",
+            "thumbs": [
+              "activities-facepaint-themes-snowman-facepaint3-thumbs-1",
+              "activities-facepaint-themes-snowman-facepaint3-thumbs-2",
+              "activities-facepaint-themes-snowman-facepaint3-thumbs-3",
+              "activities-facepaint-themes-snowman-facepaint3-thumbs-4",
+              "activities-facepaint-themes-snowman-facepaint3-thumbs-5"
+            ]
+          },
+          "facepaint4": {
+            "bench_item": "activities-facepaint-themes-snowman-facepaint4-bench_item",
+            "items": [
+              "activities-facepaint-themes-snowman-facepaint4-items-001",
+              "activities-facepaint-themes-snowman-facepaint4-items-002",
+              "activities-facepaint-themes-snowman-facepaint4-items-003",
+              "activities-facepaint-themes-snowman-facepaint4-items-004",
+              "activities-facepaint-themes-snowman-facepaint4-items-005"
+            ],
+            "preview": "activities-facepaint-themes-snowman-facepaint4-preview",
+            "thumbs": [
+              "activities-facepaint-themes-snowman-facepaint4-thumbs-1",
+              "activities-facepaint-themes-snowman-facepaint4-thumbs-2",
+              "activities-facepaint-themes-snowman-facepaint4-thumbs-3",
+              "activities-facepaint-themes-snowman-facepaint4-thumbs-4",
+              "activities-facepaint-themes-snowman-facepaint4-thumbs-5"
+            ]
+          },
+          "facepaint5": {
+            "bench_item": "activities-facepaint-themes-snowman-facepaint5-bench_item",
+            "items": [
+              "activities-facepaint-themes-snowman-facepaint5-items-001",
+              "activities-facepaint-themes-snowman-facepaint5-items-002",
+              "activities-facepaint-themes-snowman-facepaint5-items-003",
+              "activities-facepaint-themes-snowman-facepaint5-items-004"
+            ],
+            "preview": "activities-facepaint-themes-snowman-facepaint5-preview",
+            "thumbs": [
+              "activities-facepaint-themes-snowman-facepaint5-thumbs-1",
+              "activities-facepaint-themes-snowman-facepaint5-thumbs-2",
+              "activities-facepaint-themes-snowman-facepaint5-thumbs-3",
+              "activities-facepaint-themes-snowman-facepaint5-thumbs-4"
+            ]
+          },
+          "facepaint6": {
+            "bench_item": "activities-facepaint-themes-snowman-facepaint6-bench_item",
+            "items": [
+              "activities-facepaint-themes-snowman-facepaint6-items-001",
+              "activities-facepaint-themes-snowman-facepaint6-items-002",
+              "activities-facepaint-themes-snowman-facepaint6-items-003",
+              "activities-facepaint-themes-snowman-facepaint6-items-004",
+              "activities-facepaint-themes-snowman-facepaint6-items-005"
+            ],
+            "preview": "activities-facepaint-themes-snowman-facepaint6-preview",
+            "thumbs": [
+              "activities-facepaint-themes-snowman-facepaint6-thumbs-1",
+              "activities-facepaint-themes-snowman-facepaint6-thumbs-2",
+              "activities-facepaint-themes-snowman-facepaint6-thumbs-3",
+              "activities-facepaint-themes-snowman-facepaint6-thumbs-4",
+              "activities-facepaint-themes-snowman-facepaint6-thumbs-5"
+            ]
+          },
+          "facepaint7": {
+            "bench_item": "activities-facepaint-themes-snowman-facepaint7-bench_item",
+            "items": [
+              "activities-facepaint-themes-snowman-facepaint7-items-001",
+              "activities-facepaint-themes-snowman-facepaint7-items-002",
+              "activities-facepaint-themes-snowman-facepaint7-items-003",
+              "activities-facepaint-themes-snowman-facepaint7-items-004",
+              "activities-facepaint-themes-snowman-facepaint7-items-005"
+            ],
+            "preview": "activities-facepaint-themes-snowman-facepaint7-preview",
+            "thumbs": [
+              "activities-facepaint-themes-snowman-facepaint7-thumbs-1",
+              "activities-facepaint-themes-snowman-facepaint7-thumbs-2",
+              "activities-facepaint-themes-snowman-facepaint7-thumbs-3",
+              "activities-facepaint-themes-snowman-facepaint7-thumbs-4",
+              "activities-facepaint-themes-snowman-facepaint7-thumbs-5"
+            ]
+          },
+          "facepaint8": {
+            "bench_item": "activities-facepaint-themes-snowman-facepaint8-bench_item",
+            "items": [
+              "activities-facepaint-themes-snowman-facepaint8-items-001",
+              "activities-facepaint-themes-snowman-facepaint8-items-002",
+              "activities-facepaint-themes-snowman-facepaint8-items-003",
+              "activities-facepaint-themes-snowman-facepaint8-items-004",
+              "activities-facepaint-themes-snowman-facepaint8-items-005"
+            ],
+            "preview": "activities-facepaint-themes-snowman-facepaint8-preview",
+            "thumbs": [
+              "activities-facepaint-themes-snowman-facepaint8-thumbs-1",
+              "activities-facepaint-themes-snowman-facepaint8-thumbs-2",
+              "activities-facepaint-themes-snowman-facepaint8-thumbs-3",
+              "activities-facepaint-themes-snowman-facepaint8-thumbs-4",
+              "activities-facepaint-themes-snowman-facepaint8-thumbs-5"
+            ]
+          },
+          "glasses": {
+            "bench_item": "activities-facepaint-themes-snowman-glasses-bench_item",
+            "items": [
+              "activities-facepaint-themes-snowman-glasses-items-000",
+              "activities-facepaint-themes-snowman-glasses-items-001",
+              "activities-facepaint-themes-snowman-glasses-items-002",
+              "activities-facepaint-themes-snowman-glasses-items-003",
+              "activities-facepaint-themes-snowman-glasses-items-004",
+              "activities-facepaint-themes-snowman-glasses-items-005",
+              "activities-facepaint-themes-snowman-glasses-items-006",
+              "activities-facepaint-themes-snowman-glasses-items-007",
+              "activities-facepaint-themes-snowman-glasses-items-008",
+              "activities-facepaint-themes-snowman-glasses-items-009",
+              "activities-facepaint-themes-snowman-glasses-items-010"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-snowman-glasses-thumbs-000",
+              "activities-facepaint-themes-snowman-glasses-thumbs-001",
+              "activities-facepaint-themes-snowman-glasses-thumbs-002",
+              "activities-facepaint-themes-snowman-glasses-thumbs-003",
+              "activities-facepaint-themes-snowman-glasses-thumbs-004",
+              "activities-facepaint-themes-snowman-glasses-thumbs-005",
+              "activities-facepaint-themes-snowman-glasses-thumbs-006",
+              "activities-facepaint-themes-snowman-glasses-thumbs-007",
+              "activities-facepaint-themes-snowman-glasses-thumbs-008",
+              "activities-facepaint-themes-snowman-glasses-thumbs-009",
+              "activities-facepaint-themes-snowman-glasses-thumbs-010"
+            ]
+          },
+          "hairs": {
+            "bench_item": "activities-facepaint-themes-snowman-hairs-bench_item",
+            "items": [
+              "activities-facepaint-themes-snowman-hairs-items-001",
+              "activities-facepaint-themes-snowman-hairs-items-002",
+              "activities-facepaint-themes-snowman-hairs-items-003",
+              "activities-facepaint-themes-snowman-hairs-items-004",
+              "activities-facepaint-themes-snowman-hairs-items-005",
+              "activities-facepaint-themes-snowman-hairs-items-006",
+              "activities-facepaint-themes-snowman-hairs-items-007",
+              "activities-facepaint-themes-snowman-hairs-items-008",
+              "activities-facepaint-themes-snowman-hairs-items-009",
+              "activities-facepaint-themes-snowman-hairs-items-010",
+              "activities-facepaint-themes-snowman-hairs-items-011",
+              "activities-facepaint-themes-snowman-hairs-items-012"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-snowman-hairs-thumbs-001",
+              "activities-facepaint-themes-snowman-hairs-thumbs-002",
+              "activities-facepaint-themes-snowman-hairs-thumbs-003",
+              "activities-facepaint-themes-snowman-hairs-thumbs-004",
+              "activities-facepaint-themes-snowman-hairs-thumbs-005",
+              "activities-facepaint-themes-snowman-hairs-thumbs-006",
+              "activities-facepaint-themes-snowman-hairs-thumbs-007",
+              "activities-facepaint-themes-snowman-hairs-thumbs-008",
+              "activities-facepaint-themes-snowman-hairs-thumbs-009",
+              "activities-facepaint-themes-snowman-hairs-thumbs-010",
+              "activities-facepaint-themes-snowman-hairs-thumbs-011",
+              "activities-facepaint-themes-snowman-hairs-thumbs-012"
+            ]
+          },
+          "hats": {
+            "bench_item": "activities-facepaint-themes-snowman-hats-bench_item",
+            "items": [
+              "activities-facepaint-themes-snowman-hats-items-000",
+              "activities-facepaint-themes-snowman-hats-items-001",
+              "activities-facepaint-themes-snowman-hats-items-002",
+              "activities-facepaint-themes-snowman-hats-items-003",
+              "activities-facepaint-themes-snowman-hats-items-004",
+              "activities-facepaint-themes-snowman-hats-items-005",
+              "activities-facepaint-themes-snowman-hats-items-006",
+              "activities-facepaint-themes-snowman-hats-items-007",
+              "activities-facepaint-themes-snowman-hats-items-008",
+              "activities-facepaint-themes-snowman-hats-items-009",
+              "activities-facepaint-themes-snowman-hats-items-010"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-snowman-hats-thumbs-000",
+              "activities-facepaint-themes-snowman-hats-thumbs-001",
+              "activities-facepaint-themes-snowman-hats-thumbs-002",
+              "activities-facepaint-themes-snowman-hats-thumbs-003",
+              "activities-facepaint-themes-snowman-hats-thumbs-004",
+              "activities-facepaint-themes-snowman-hats-thumbs-005",
+              "activities-facepaint-themes-snowman-hats-thumbs-006",
+              "activities-facepaint-themes-snowman-hats-thumbs-007",
+              "activities-facepaint-themes-snowman-hats-thumbs-008",
+              "activities-facepaint-themes-snowman-hats-thumbs-009",
+              "activities-facepaint-themes-snowman-hats-thumbs-010"
+            ]
+          },
+          "outfits": {
+            "bench_item": "activities-facepaint-themes-snowman-outfits-bench_item",
+            "items": [
+              "activities-facepaint-themes-snowman-outfits-items-001",
+              "activities-facepaint-themes-snowman-outfits-items-002",
+              "activities-facepaint-themes-snowman-outfits-items-003",
+              "activities-facepaint-themes-snowman-outfits-items-004",
+              "activities-facepaint-themes-snowman-outfits-items-005",
+              "activities-facepaint-themes-snowman-outfits-items-006",
+              "activities-facepaint-themes-snowman-outfits-items-007",
+              "activities-facepaint-themes-snowman-outfits-items-008",
+              "activities-facepaint-themes-snowman-outfits-items-009",
+              "activities-facepaint-themes-snowman-outfits-items-010"
+            ],
+            "thumbs": [
+              "activities-facepaint-themes-snowman-outfits-thumbs-001",
+              "activities-facepaint-themes-snowman-outfits-thumbs-002",
+              "activities-facepaint-themes-snowman-outfits-thumbs-003",
+              "activities-facepaint-themes-snowman-outfits-thumbs-004",
+              "activities-facepaint-themes-snowman-outfits-thumbs-005",
+              "activities-facepaint-themes-snowman-outfits-thumbs-006",
+              "activities-facepaint-themes-snowman-outfits-thumbs-007",
+              "activities-facepaint-themes-snowman-outfits-thumbs-008",
+              "activities-facepaint-themes-snowman-outfits-thumbs-009",
+              "activities-facepaint-themes-snowman-outfits-thumbs-010"
+            ]
+          }
+        }
+      }
+    },
+    "make_up": {
+      "background": "activities-make_up-background.jpg",
+      "buttons": {
+        "themes": {
+          "color": "activities-make_up-buttons-themes-color",
+          "pink": "activities-make_up-buttons-themes-pink",
+          "purple": "activities-make_up-buttons-themes-purple",
+          "sparkle": "activities-make_up-buttons-themes-sparkle"
+        },
+        "themes_locked": {
+          "color": "activities-make_up-buttons-themes_locked-color",
+          "pink": "activities-make_up-buttons-themes_locked-pink",
+          "purple": "activities-make_up-buttons-themes_locked-purple",
+          "sparkle": "activities-make_up-buttons-themes_locked-sparkle"
+        }
+      },
+      "remover": "activities-make_up-remover",
+      "side_bar": "activities-make_up-side_bar",
+      "themes": {
+        "sparkle": {
+          "bench": "activities-make_up-themes-sparkle-bench",
+          "make_up": {
+            "earrings": {
+              "bench_item": "activities-make_up-themes-sparkle-make_up-earrings-bench_item",
+              "items": [
+                "activities-make_up-themes-sparkle-make_up-earrings-items-000",
+                "activities-make_up-themes-sparkle-make_up-earrings-items-001",
+                "activities-make_up-themes-sparkle-make_up-earrings-items-002",
+                "activities-make_up-themes-sparkle-make_up-earrings-items-003",
+                "activities-make_up-themes-sparkle-make_up-earrings-items-004",
+                "activities-make_up-themes-sparkle-make_up-earrings-items-005",
+                "activities-make_up-themes-sparkle-make_up-earrings-items-006",
+                "activities-make_up-themes-sparkle-make_up-earrings-items-007",
+                "activities-make_up-themes-sparkle-make_up-earrings-items-008",
+                "activities-make_up-themes-sparkle-make_up-earrings-items-009",
+                "activities-make_up-themes-sparkle-make_up-earrings-items-010"
+              ],
+              "thumbs": [
+                "activities-make_up-themes-sparkle-make_up-earrings-thumbs-000",
+                "activities-make_up-themes-sparkle-make_up-earrings-thumbs-001",
+                "activities-make_up-themes-sparkle-make_up-earrings-thumbs-002",
+                "activities-make_up-themes-sparkle-make_up-earrings-thumbs-003",
+                "activities-make_up-themes-sparkle-make_up-earrings-thumbs-004",
+                "activities-make_up-themes-sparkle-make_up-earrings-thumbs-005",
+                "activities-make_up-themes-sparkle-make_up-earrings-thumbs-006",
+                "activities-make_up-themes-sparkle-make_up-earrings-thumbs-007",
+                "activities-make_up-themes-sparkle-make_up-earrings-thumbs-008",
+                "activities-make_up-themes-sparkle-make_up-earrings-thumbs-009",
+                "activities-make_up-themes-sparkle-make_up-earrings-thumbs-010"
+              ]
+            },
+            "eye_liner": {
+              "appliers": [
+                "activities-make_up-themes-sparkle-make_up-eye_liner-appliers-1",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-appliers-2",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-appliers-3",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-appliers-4",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-appliers-5",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-appliers-6",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-appliers-7",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-appliers-8"
+              ],
+              "bench_item": "activities-make_up-themes-sparkle-make_up-eye_liner-bench_item",
+              "items": [
+                "activities-make_up-themes-sparkle-make_up-eye_liner-items-1",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-items-2",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-items-3",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-items-4",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-items-5",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-items-6",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-items-7",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-items-8"
+              ],
+              "thumbs": [
+                "activities-make_up-themes-sparkle-make_up-eye_liner-thumbs-1",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-thumbs-2",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-thumbs-3",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-thumbs-4",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-thumbs-5",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-thumbs-6",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-thumbs-7",
+                "activities-make_up-themes-sparkle-make_up-eye_liner-thumbs-8"
+              ]
+            },
+            "eye_shadow": {
+              "appliers": [
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-appliers-1",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-appliers-2",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-appliers-3",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-appliers-4",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-appliers-5",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-appliers-6",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-appliers-7",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-appliers-8"
+              ],
+              "bench_item": "activities-make_up-themes-sparkle-make_up-eye_shadow-bench_item",
+              "items": [
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-items-001",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-items-002",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-items-003",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-items-004",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-items-005",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-items-006",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-items-007",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-items-008"
+              ],
+              "thumbs": [
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-thumbs-1",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-thumbs-2",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-thumbs-3",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-thumbs-4",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-thumbs-5",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-thumbs-6",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-thumbs-7",
+                "activities-make_up-themes-sparkle-make_up-eye_shadow-thumbs-8"
+              ]
+            },
+            "eyes": {
+              "bench_item": "activities-make_up-themes-sparkle-make_up-eyes-bench_item",
+              "items": [
+                "activities-make_up-themes-sparkle-make_up-eyes-items-001",
+                "activities-make_up-themes-sparkle-make_up-eyes-items-002",
+                "activities-make_up-themes-sparkle-make_up-eyes-items-003",
+                "activities-make_up-themes-sparkle-make_up-eyes-items-004",
+                "activities-make_up-themes-sparkle-make_up-eyes-items-005",
+                "activities-make_up-themes-sparkle-make_up-eyes-items-006",
+                "activities-make_up-themes-sparkle-make_up-eyes-items-007",
+                "activities-make_up-themes-sparkle-make_up-eyes-items-008"
+              ],
+              "thumbs": [
+                "activities-make_up-themes-sparkle-make_up-eyes-thumbs-1",
+                "activities-make_up-themes-sparkle-make_up-eyes-thumbs-2",
+                "activities-make_up-themes-sparkle-make_up-eyes-thumbs-3",
+                "activities-make_up-themes-sparkle-make_up-eyes-thumbs-4",
+                "activities-make_up-themes-sparkle-make_up-eyes-thumbs-5",
+                "activities-make_up-themes-sparkle-make_up-eyes-thumbs-6",
+                "activities-make_up-themes-sparkle-make_up-eyes-thumbs-7",
+                "activities-make_up-themes-sparkle-make_up-eyes-thumbs-8"
+              ]
+            },
+            "hair_pieces": {
+              "bench_item": "activities-make_up-themes-sparkle-make_up-hair_pieces-bench_item",
+              "items": [
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-items-000",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-items-001",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-items-002",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-items-003",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-items-004",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-items-005",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-items-006",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-items-007",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-items-008",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-items-009",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-items-010"
+              ],
+              "thumbs": [
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-thumbs-000",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-thumbs-001",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-thumbs-002",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-thumbs-003",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-thumbs-004",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-thumbs-005",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-thumbs-006",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-thumbs-007",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-thumbs-008",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-thumbs-009",
+                "activities-make_up-themes-sparkle-make_up-hair_pieces-thumbs-010"
+              ]
+            },
+            "lipsticks": {
+              "accessory": "activities-make_up-themes-sparkle-make_up-lipsticks-accessory",
+              "appliers": [
+                "activities-make_up-themes-sparkle-make_up-lipsticks-appliers-1",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-appliers-2",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-appliers-3",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-appliers-4",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-appliers-5",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-appliers-6",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-appliers-7",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-appliers-8"
+              ],
+              "items": [
+                "activities-make_up-themes-sparkle-make_up-lipsticks-items-001",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-items-002",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-items-003",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-items-004",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-items-005",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-items-006",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-items-007",
+                "activities-make_up-themes-sparkle-make_up-lipsticks-items-008"
+              ]
+            },
+            "mascara": {
+              "accessory": "activities-make_up-themes-sparkle-make_up-mascara-accessory",
+              "appliers": [
+                "activities-make_up-themes-sparkle-make_up-mascara-appliers-1",
+                "activities-make_up-themes-sparkle-make_up-mascara-appliers-2",
+                "activities-make_up-themes-sparkle-make_up-mascara-appliers-3",
+                "activities-make_up-themes-sparkle-make_up-mascara-appliers-4",
+                "activities-make_up-themes-sparkle-make_up-mascara-appliers-5",
+                "activities-make_up-themes-sparkle-make_up-mascara-appliers-6",
+                "activities-make_up-themes-sparkle-make_up-mascara-appliers-7",
+                "activities-make_up-themes-sparkle-make_up-mascara-appliers-8"
+              ],
+              "items": [
+                "activities-make_up-themes-sparkle-make_up-mascara-items-001",
+                "activities-make_up-themes-sparkle-make_up-mascara-items-002",
+                "activities-make_up-themes-sparkle-make_up-mascara-items-003",
+                "activities-make_up-themes-sparkle-make_up-mascara-items-004",
+                "activities-make_up-themes-sparkle-make_up-mascara-items-005",
+                "activities-make_up-themes-sparkle-make_up-mascara-items-006",
+                "activities-make_up-themes-sparkle-make_up-mascara-items-007",
+                "activities-make_up-themes-sparkle-make_up-mascara-items-008"
+              ]
+            },
+            "necklaces": {
+              "bench_item": "activities-make_up-themes-sparkle-make_up-necklaces-bench_item",
+              "items": [
+                "activities-make_up-themes-sparkle-make_up-necklaces-items-000",
+                "activities-make_up-themes-sparkle-make_up-necklaces-items-001",
+                "activities-make_up-themes-sparkle-make_up-necklaces-items-002",
+                "activities-make_up-themes-sparkle-make_up-necklaces-items-003",
+                "activities-make_up-themes-sparkle-make_up-necklaces-items-004",
+                "activities-make_up-themes-sparkle-make_up-necklaces-items-005",
+                "activities-make_up-themes-sparkle-make_up-necklaces-items-006",
+                "activities-make_up-themes-sparkle-make_up-necklaces-items-007",
+                "activities-make_up-themes-sparkle-make_up-necklaces-items-008",
+                "activities-make_up-themes-sparkle-make_up-necklaces-items-009",
+                "activities-make_up-themes-sparkle-make_up-necklaces-items-010"
+              ],
+              "thumbs": [
+                "activities-make_up-themes-sparkle-make_up-necklaces-thumbs-000",
+                "activities-make_up-themes-sparkle-make_up-necklaces-thumbs-001",
+                "activities-make_up-themes-sparkle-make_up-necklaces-thumbs-002",
+                "activities-make_up-themes-sparkle-make_up-necklaces-thumbs-003",
+                "activities-make_up-themes-sparkle-make_up-necklaces-thumbs-004",
+                "activities-make_up-themes-sparkle-make_up-necklaces-thumbs-005",
+                "activities-make_up-themes-sparkle-make_up-necklaces-thumbs-006",
+                "activities-make_up-themes-sparkle-make_up-necklaces-thumbs-007",
+                "activities-make_up-themes-sparkle-make_up-necklaces-thumbs-008",
+                "activities-make_up-themes-sparkle-make_up-necklaces-thumbs-009",
+                "activities-make_up-themes-sparkle-make_up-necklaces-thumbs-010"
+              ]
+            },
+            "powders": {
+              "appliers": [
+                "activities-make_up-themes-sparkle-make_up-powders-appliers-1",
+                "activities-make_up-themes-sparkle-make_up-powders-appliers-2",
+                "activities-make_up-themes-sparkle-make_up-powders-appliers-3",
+                "activities-make_up-themes-sparkle-make_up-powders-appliers-4",
+                "activities-make_up-themes-sparkle-make_up-powders-appliers-5"
+              ],
+              "containers": [
+                "activities-make_up-themes-sparkle-make_up-powders-containers-1",
+                "activities-make_up-themes-sparkle-make_up-powders-containers-2",
+                "activities-make_up-themes-sparkle-make_up-powders-containers-3",
+                "activities-make_up-themes-sparkle-make_up-powders-containers-4",
+                "activities-make_up-themes-sparkle-make_up-powders-containers-5"
+              ],
+              "items": [
+                "activities-make_up-themes-sparkle-make_up-powders-items-001",
+                "activities-make_up-themes-sparkle-make_up-powders-items-002",
+                "activities-make_up-themes-sparkle-make_up-powders-items-003",
+                "activities-make_up-themes-sparkle-make_up-powders-items-004",
+                "activities-make_up-themes-sparkle-make_up-powders-items-005"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "choose_activity": {
+    "background": "choose_activity-background.jpg"
+  },
+  "choose_character": {
+    "background": "choose_character-background.jpg",
+    "buttons": {
+      "back": "choose_character-buttons-back"
+    },
+    "characters": [
+      "choose_character-characters-1",
+      "choose_character-characters-2",
+      "choose_character-characters-3",
+      "choose_character-characters-4"
+    ],
+    "lock": "choose_character-lock"
+  },
+  "home": {
+    "background": "home-background.jpg",
+    "buttons": {
+      "more_games": "home-buttons-more_games",
+      "play": "home-buttons-play",
+      "restore": "home-buttons-restore",
+      "settings": "home-buttons-settings",
+      "sound": {
+        "off": "home-buttons-sound-off",
+        "on": "home-buttons-sound-on"
+      }
+    },
+    "count_down_box": {
+      "large": "home-count_down_box-large",
+      "small": "home-count_down_box-small"
+    },
+    "logo": "home-logo"
+  },
+  "shared": {
+    "buttons": {
+      "activities": {
+        "dress_up": "shared-buttons-activities-dress_up",
+        "facepaint": "shared-buttons-activities-facepaint",
+        "make_up": "shared-buttons-activities-make_up"
+      },
+      "ads": {
+        "off": "shared-buttons-ads-off",
+        "on": "shared-buttons-ads-on"
+      },
+      "arrows": {
+        "left": "shared-buttons-arrows-left",
+        "right": "shared-buttons-arrows-right"
+      },
+      "back": "shared-buttons-back",
+      "camera": "shared-buttons-camera",
+      "count_down_box": {
+        "large": "shared-buttons-count_down_box-large",
+        "small": "shared-buttons-count_down_box-small"
+      },
+      "reset": "shared-buttons-reset",
+      "settings": "shared-buttons-settings",
+      "sound": {
+        "off": "shared-buttons-sound-off",
+        "on": "shared-buttons-sound-on"
+      }
+    },
+    "characters": {
+      "bodies": [
+        "shared-characters-bodies-001",
+        "shared-characters-bodies-002",
+        "shared-characters-bodies-003",
+        "shared-characters-bodies-004"
+      ],
+      "hairs": [
+        "shared-characters-hairs-001",
+        "shared-characters-hairs-002",
+        "shared-characters-hairs-003",
+        "shared-characters-hairs-004"
+      ]
+    },
+    "loading_screen": "shared-loading_screen.jpg",
+    "locks": {
+      "christmas": "shared-locks-christmas",
+      "color_makeup": "shared-locks-color_makeup",
+      "frozen": "shared-locks-frozen",
+      "glitter": "shared-locks-glitter",
+      "gold": "shared-locks-gold",
+      "green": "shared-locks-green",
+      "pink_makeup": "shared-locks-pink_makeup",
+      "purple_makeup": "shared-locks-purple_makeup",
+      "regular": "shared-locks-regular",
+      "santa": "shared-locks-santa",
+      "snowman": "shared-locks-snowman",
+      "sparkle_makeup": "shared-locks-sparkle_makeup"
+    },
+    "make_up_theme_buttons": {
+      "color_makeup": "shared-make_up_theme_buttons-color_makeup",
+      "pink_makeup": "shared-make_up_theme_buttons-pink_makeup",
+      "purple_makeup": "shared-make_up_theme_buttons-purple_makeup",
+      "sparkle_makeup": "shared-make_up_theme_buttons-sparkle_makeup"
+    },
+    "make_up_theme_buttons_locked": {
+      "color_makeup": "shared-make_up_theme_buttons_locked-color_makeup",
+      "pink_makeup": "shared-make_up_theme_buttons_locked-pink_makeup",
+      "purple_makeup": "shared-make_up_theme_buttons_locked-purple_makeup",
+      "sparkle_makeup": "shared-make_up_theme_buttons_locked-sparkle_makeup"
+    },
+    "scrollable_bench": {
+      "arrows": {
+        "left": "shared-scrollable_bench-arrows-left",
+        "right": "shared-scrollable_bench-arrows-right"
+      }
+    },
+    "side_bar": "shared-side_bar",
+    "watch_to_unlock": "shared-watch_to_unlock"
+  }
+}

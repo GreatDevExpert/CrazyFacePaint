@@ -1,0 +1,1 @@
+../../../AdMobMediationAdapterAdColony/Classes/GADMAdapterAdColonyInitializer.h

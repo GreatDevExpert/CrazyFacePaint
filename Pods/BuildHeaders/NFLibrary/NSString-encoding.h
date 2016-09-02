@@ -1,0 +1,1 @@
+../../NFLibrary/Classes/NFLibrary/NFNetworking/NSString-encoding.h

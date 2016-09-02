@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://apple.com/itunes/importer" version="software5.2">
+    <!-- This document was generated on Dec 9, 2014 6:36:43 PM for kyle@tapfury.com <kyle@ninjafish.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1418179003045-8846806510621f2337daf8e5fd88f502fa460b1b4730c564eac829abb6dfa856</metadata_token>
+    <provider>NinjafishStudiosLLC</provider>
+    <team_id>S44DGMPC32</team_id>
+    <software>
+        <!--Apple ID: 948000828-->
+        <vendor_id>cfp002</vendor_id>
+        <read_only_info>
+            <read_only_value key="apple-id">948000828</read_only_value>
+        </read_only_info>
+        <software_metadata>
+            <versions>
+                <version string="1.0">
+                    <locales>
+                        <locale name="en-US">
+                            <title>Christmas Face Paint</title>
+                            <description>place holder text place holder text place holder text place holder text place holder text place holder text</description>
+                            <keywords>
+                                <keyword>place holder text place holder text place holder text</keyword>
+                            </keywords>
+                            <privacy_url>http://www.ninjafish.com/privacy</privacy_url>
+                            <support_url>http://www.ninjafish.com</support_url>
+                            <software_screenshots>
+                                
+                                
+                                
+                                                              <software_screenshot display_target="iOS-3.5-in" position="1">
+                                      <size>10344</size>
+                                      <file_name>iOS-3.5-in_screenshot_1.png</file_name>
+                                      <checksum type="md5">279f80528efa9fe218e2434eeb8fac02</checksum>
+                                  </software_screenshot>
+              
+                                  <software_screenshot display_target="iOS-4-in" position="1">
+                                      <size>12087</size>
+                                      <file_name>iOS-4-in_screenshot_1.png</file_name>
+                                      <checksum type="md5">eccb66f4931eb0ba5d850fd1f745bca0</checksum>
+                                  </software_screenshot>
+              
+                                  <software_screenshot display_target="iOS-iPad" position="1">
+                                      <size>12722</size>
+                                      <file_name>iOS-iPad_screenshot_1.png</file_name>
+                                      <checksum type="md5">eeb5a4335dac925db7d07c9859bb83ec</checksum>
+                                  </software_screenshot>
+              
+</software_screenshots>
+                        </locale>
+                    </locales>
+                </version>
+            </versions>
+            <in_app_purchases>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.remove_ads</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.remove_ads</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>4</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Remove Ads</title>
+                            <description>Remove Ads</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>1181493</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.remove_ads.png</file_name>
+                        <checksum type="md5">49074fa100dc8249ab5a6b330a7bb71b</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_all_characters</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_all_characters</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>3</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock All Characters</title>
+                            <description>Unlock All Characters</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>910051</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_all_characters.png</file_name>
+                        <checksum type="md5">319e0cc78e6a1dddfbdb046b6557fd57</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_christmas_hairs</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_christmas_hairs</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>3</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock All Christmas Hair</title>
+                            <description>Unlock All Christmas Hair</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>6916</size>
+                        <file_name>placeholder.png</file_name>
+                        <checksum type="md5">9ec71d389d6e9b23bca285fb8287a5cd</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_christmas_outfits</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_christmas_outfits</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>3</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock All Christmas Outfits</title>
+                            <description>Unlock All Christmas Outfits</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>732973</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_christmas_outfits.png</file_name>
+                        <checksum type="md5">260fdfcb3865e1ef58cab4b53dc0231c</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_christmas_pack</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_christmas_pack</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>5</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>All Christmas Face Paint Designs and Dress Ups</title>
+                            <description>All Christmas Face Paint Designs and Dress Ups</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>738703</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_christmas_pack.png</file_name>
+                        <checksum type="md5">3176910c40fc60b95697fd012312d429</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_frozen_hairs</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_frozen_hairs</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>3</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock All Frozen Hair</title>
+                            <description>Unlock All Frozen Hair</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>794171</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_frozen_hairs.png</file_name>
+                        <checksum type="md5">459d07446821ba6ffc1beb9321b0004c</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_frozen_outfits</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_frozen_outfits</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>3</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock All Frozen Outfits</title>
+                            <description>Unlock All Frozen Outfits</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>762675</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_frozen_outfits.png</file_name>
+                        <checksum type="md5">3e05e8c3be2ed0267eff6277a7d664df</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_frozen_pack</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_frozen_pack</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>5</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>All Frozen Face Paint Designs and Dress Ups</title>
+                            <description>All Frozen Face Paint Designs and Dress Ups</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>684214</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_frozen_pack.png</file_name>
+                        <checksum type="md5">544eb2695ba9b3fcd39724f8e85fc1bd</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_santa_hairs</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_santa_hairs</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>3</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock All Santa Hair</title>
+                            <description>Unlock All Santa Hair</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>744520</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_santa_hairs.png</file_name>
+                        <checksum type="md5">57bf57e0288fb5554f3377b2929a4b9d</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_santa_outfits</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_santa_outfits</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>3</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock All Santa Outfits</title>
+                            <description>Unlock All Santa Outfits</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>729686</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_santa_outfits.png</file_name>
+                        <checksum type="md5">ebccbbb724831fc5dbda639a32e4ff8b</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_santa_pack</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_santa_pack</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>5</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>All Santa Face Paint Designs and Dress Ups</title>
+                            <description>All Santa Face Paint Designs and Dress Ups</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>650356</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_santa_pack.png</file_name>
+                        <checksum type="md5">ec0616cae8872622a41e6035dc310795</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_snowman_hairs</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_snowman_hairs</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>3</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock All Snowman Hair</title>
+                            <description>Unlock All Snowman Hair</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>767924</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_snowman_hairs.png</file_name>
+                        <checksum type="md5">5daa9d017e05d748a7ead29eb74a9907</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_snowman_outfits</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_snowman_outfits</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>3</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock All Snowman Outfits</title>
+                            <description>Unlock All Snowman Outfits</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>832896</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_snowman_outfits.png</file_name>
+                        <checksum type="md5">7d36734f5d281bde9111d45d4592730a</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_snowman_pack</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_snowman_pack</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>5</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>All Snowman Face Paint Designs and Dress Ups</title>
+                            <description>All Snowman Face Paint Designs and Dress Ups</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>672131</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_snowman_pack.png</file_name>
+                        <checksum type="md5">87a16e57f7c20771276c9db14b6b92d5</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_sparkle_lipsticks</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_sparkle_lipsticks</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>3</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock All Sparkle Lipstick</title>
+                            <description>Unlock All Sparkle Lipstick</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>650892</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_sparkle_lipsticks.png</file_name>
+                        <checksum type="md5">b748677c1cfc3d0cefd037a256567dbc</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_sparkle_mascara</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_sparkle_mascara</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>2</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock All Sparkle Mascara</title>
+                            <description>Unlock All Sparkle Mascara</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>634351</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_sparkle_mascara.png</file_name>
+                        <checksum type="md5">ff61b04bea7ed6dad5514b02f06f63f1</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.christmasfacepaint.unlock_sparkle_pack</product_id>
+                    <reference_name>com.ninjafishstudios.christmasfacepaint.unlock_sparkle_pack</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2014-12-09</start_date>
+                                    <wholesale_price_tier>8</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock All Sparkle Makeup, Clothing, and Accessories</title>
+                            <description>Unlock All Sparkle Makeup, Clothing, and Accessories</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>710543</size>
+                        <file_name>com.ninjafishstudios.christmasfacepaint.unlock_sparkle_pack.png</file_name>
+                        <checksum type="md5">ab330944cba359d0c557273ec3753454</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+            </in_app_purchases>
+        </software_metadata>
+    </software>
+</package>

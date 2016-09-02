@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F6024036-1119-40CC-8A17-A39380F6C674</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ChristmasFacepaint</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>39303CBD-E8D3-4521-B64B-EDF3ADFAFE6B</key>
+		<string>https://github.com/ninjafishstudios/NFFeaturePoints.git</string>
+		<key>6DA99C11-9DC7-4B15-8107-573E89507C04</key>
+		<string>ssh://github.com/ninjafishstudios/ChristmasFacePaint.git</string>
+		<key>A49E6ADA-3A11-4507-88C4-2A6311AB5EBA</key>
+		<string>https://github.com/ninjafishstudios/NFChartboost.git</string>
+		<key>BEDBA97B-99C0-427D-BB27-3B10F3763E08</key>
+		<string>https://github.com/ninjafishstudios/NFNativeX.git</string>
+		<key>D4D3758E-C713-45DB-808E-BDDA0CE37816</key>
+		<string>https://github.com/ninjafishstudios/DVAdKit.git</string>
+		<key>D60C420A-5616-4299-9667-CB9314A2DA6F</key>
+		<string>https://github.com/ninjafishstudios/NFSettingsModule.git</string>
+		<key>E1E4D5F0-4053-45D4-AFB5-AB539F3F26C7</key>
+		<string>ssh://github.com/williamlocke/KSLabel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ChristmasFacepaint.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>39303CBD-E8D3-4521-B64B-EDF3ADFAFE6B</key>
+		<string>../Pods/Local Pods/NFFeaturePoints</string>
+		<key>6DA99C11-9DC7-4B15-8107-573E89507C04</key>
+		<string>..</string>
+		<key>A49E6ADA-3A11-4507-88C4-2A6311AB5EBA</key>
+		<string>../Pods/Local Pods/NFChartboost</string>
+		<key>BEDBA97B-99C0-427D-BB27-3B10F3763E08</key>
+		<string>../Pods/Local Pods/NFNativeX</string>
+		<key>D4D3758E-C713-45DB-808E-BDDA0CE37816</key>
+		<string>../Pods/Local Pods/DVAdKit</string>
+		<key>D60C420A-5616-4299-9667-CB9314A2DA6F</key>
+		<string>../Pods/Local Pods/NFSettingsModule</string>
+		<key>E1E4D5F0-4053-45D4-AFB5-AB539F3F26C7</key>
+		<string>../Pods/Local Pods/KSLabel</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/ninjafishstudios/ChristmasFacePaint.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6DA99C11-9DC7-4B15-8107-573E89507C04</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6DA99C11-9DC7-4B15-8107-573E89507C04</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ChristmasFacePaint</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D4D3758E-C713-45DB-808E-BDDA0CE37816</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DVAdKit</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E1E4D5F0-4053-45D4-AFB5-AB539F3F26C7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KSLabel</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A49E6ADA-3A11-4507-88C4-2A6311AB5EBA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NFChartboost</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>39303CBD-E8D3-4521-B64B-EDF3ADFAFE6B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NFFeaturePoints</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BEDBA97B-99C0-427D-BB27-3B10F3763E08</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NFNativeX</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D60C420A-5616-4299-9667-CB9314A2DA6F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NFSettingsModule</string>
+		</dict>
+	</array>
+</dict>
+</plist>

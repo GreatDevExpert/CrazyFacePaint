@@ -1,0 +1,1 @@
+PODS_DVADKIT_OTHER_LDFLAGS = -framework AdSupport -framework QuartzCore -framework StoreKit

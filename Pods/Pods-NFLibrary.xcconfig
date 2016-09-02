@@ -1,0 +1,1 @@
+PODS_NFLIBRARY_OTHER_LDFLAGS = -framework AVFoundation -framework AudioToolbox -framework CoreGraphics -framework CoreLocation -framework CoreMotion -framework MobileCoreServices -framework OpenGLES -framework QuartzCore -framework StoreKit

@@ -1,0 +1,30 @@
+  {
+  "id":"com.ninjafish.cakepop.unlock_all_coatings",
+  "name":"Unlock All Coatings",
+  "store_image":"store-coatings",
+  "locked_index":8,
+  "unlock_everything":false,
+  "images_key_path":"", 
+  "thumb_images_key_path":"",
+  "download_images_key_paths":[
+                      "coatings"
+                      ],
+  "images_key_paths":[
+                      "coatings"
+                      ],
+  "download_on_purchase":true,
+  "download_on_purchase_devices":[
+    "ipad",
+    "iphone"
+  ],
+  "downloading":false,
+  "products_unlocked_upon_purchase":[
+                                     "frozenmakeover_unlock_all_earrings",
+                                     "frozenmakeover_unlock_all_necklaces",
+                                     "frozenmakeover_unlock_all_bracelets"
+                                     ],
+  "is_part_of_pack":true,
+  "price":0.99,
+"virtual_currency_amount":10,
+"tier":1
+  }

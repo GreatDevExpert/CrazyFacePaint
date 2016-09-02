@@ -1,0 +1,5 @@
+{
+    "NFViewController":[],
+    "remove_images_containing":["@2x~ipad"],
+    "keep_image_sections":["store"]
+}

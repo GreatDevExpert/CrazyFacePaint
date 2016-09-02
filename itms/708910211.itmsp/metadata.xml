@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://apple.com/itunes/importer" version="software5.1">
+    <!-- This document was generated on Oct 18, 2013 5:24:40 PM for kyle@tapfury.com <k13kyle@gmail.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1382142280008-930be83d7583bd3d4f02d7c9a0c182c710fc28d26581b50abfcf6a4bf87356bc</metadata_token>
+    <provider>NinjafishStudiosLLC</provider>
+    <team_id>S44DGMPC32</team_id>
+    <software>
+        <!--Apple ID: 708910211-->
+        <vendor_id>hw001</vendor_id>
+        <read_only_info>
+            <read_only_value key="apple-id">708910211</read_only_value>
+        </read_only_info>
+        <software_metadata>
+            <versions>
+                <version string="1.0">
+                    <locales>
+                        <locale name="en-US">
+                            <title>Halloween Makeover Salon</title>
+                            <description>Help all the girls get dressed up for Halloween. Start off in the spa, then do there make-up and finally help them pick out the perfect outfit. 
+
+Featuring Four Themes:
+Princess
+Vampire
+Superhero
+Witch
+
+*Please note that Halloween Makeover Salon is free to play, but you are able to purchase game items with real money. If you don’t want to use this feature, please disable in-app purchases.* 
+
+Ninjafish Studios is very concerned about our users' privacy. To understand our policies and obligations, please read our Terms Of Service and Privacy Policy carefully. 
+
+Terms Of Service: http://www.ninjafish.com/tos 
+Privacy Policy: http://www.ninjafish.com/privacy</description>
+                            <keywords>
+                                <keyword>halloween</keyword>
+                                <keyword>vampire</keyword>
+                                <keyword>witch</keyword>
+                                <keyword>princess</keyword>
+                                <keyword>superhero</keyword>
+                                <keyword>up</keyword>
+                                <keyword>dress</keyword>
+                                <keyword>make</keyword>
+                                <keyword>over</keyword>
+                                <keyword>salon</keyword>
+                                <keyword>makeover</keyword>
+                                <keyword>costume</keyword>
+                            </keywords>
+                            <privacy_url>http://www.ninjafish.com/privacy</privacy_url>
+                            <support_url>http://www.ninjafish.com</support_url>
+                            <software_screenshots>
+                                
+                                
+                                
+                                                              <software_screenshot display_target="iOS-3.5-in" position="1">
+                                      <size>10344</size>
+                                      <file_name>iOS-3.5-in_screenshot_1.png</file_name>
+                                      <checksum type="md5">279f80528efa9fe218e2434eeb8fac02</checksum>
+                                  </software_screenshot>
+              
+                                  <software_screenshot display_target="iOS-4-in" position="1">
+                                      <size>12087</size>
+                                      <file_name>iOS-4-in_screenshot_1.png</file_name>
+                                      <checksum type="md5">eccb66f4931eb0ba5d850fd1f745bca0</checksum>
+                                  </software_screenshot>
+              
+                                  <software_screenshot display_target="iOS-iPad" position="1">
+                                      <size>12722</size>
+                                      <file_name>iOS-iPad_screenshot_1.png</file_name>
+                                      <checksum type="md5">eeb5a4335dac925db7d07c9859bb83ec</checksum>
+                                  </software_screenshot>
+              
+</software_screenshots>
+                        </locale>
+                    </locales>
+                </version>
+            </versions>
+            <products>
+                <product>
+                    <territory>WW</territory>
+                    <cleared_for_sale>true</cleared_for_sale>
+                    <sales_start_date>2013-09-16</sales_start_date>
+                    <intervals>
+                        <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                        <interval>
+                            <start_date>2013-10-18</start_date>
+                            <wholesale_price_tier>0</wholesale_price_tier>
+                        </interval>
+                    </intervals>
+                    <allow_volume_discount>true</allow_volume_discount>
+                </product>
+            </products>
+            <in_app_purchases>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.halloweenmakeoversalon.remove_ads</product_id>
+                    <reference_name>com.ninjafishstudios.halloweenmakeoversalon.remove_ads</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2013-10-18</start_date>
+                                    <wholesale_price_tier>5</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Remove Ads</title>
+                            <description>Remove Ads</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>359669</size>
+                        <file_name>com.ninjafishstudios.halloweenmakeoversalon.remove_ads.png</file_name>
+                        <checksum type="md5">9b2d66afb820bf530a129cbb80efd296</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.halloweenmakeoversalon.unlock_everything</product_id>
+                    <reference_name>com.ninjafishstudios.halloweenmakeoversalon.unlock_everything</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2013-10-18</start_date>
+                                    <wholesale_price_tier>15</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock Everything</title>
+                            <description>Unlock Everything</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>296178</size>
+                        <file_name>com.ninjafishstudios.halloweenmakeoversalon.unlock_everything.png</file_name>
+                        <checksum type="md5">152aea9930ec965a01840b7f7d335757</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.halloweenmakeoversalon.unlock_princess_pack</product_id>
+                    <reference_name>com.ninjafishstudios.halloweenmakeoversalon.unlock_princess_pack</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2013-10-18</start_date>
+                                    <wholesale_price_tier>5</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock Princess Pack</title>
+                            <description>Unlock Princess Pack</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>466567</size>
+                        <file_name>com.ninjafishstudios.halloweenmakeoversalon.unlock_princess_pack.png</file_name>
+                        <checksum type="md5">24b0db7ec901d6178b9d45f52af6b780</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.halloweenmakeoversalon.unlock_superhero_pack</product_id>
+                    <reference_name>com.ninjafishstudios.halloweenmakeoversalon.unlock_superhero_pack</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2013-10-18</start_date>
+                                    <wholesale_price_tier>5</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock Superhero Pack</title>
+                            <description>Unlock Superhero Pack</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>469084</size>
+                        <file_name>com.ninjafishstudios.halloweenmakeoversalon.unlock_superhero_pack.png</file_name>
+                        <checksum type="md5">6546cf2867f37b025d8fd4131e47cc86</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.halloweenmakeoversalon.unlock_vampire_pack</product_id>
+                    <reference_name>com.ninjafishstudios.halloweenmakeoversalon.unlock_vampire_pack</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2013-10-18</start_date>
+                                    <wholesale_price_tier>4</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock Vampire Pack</title>
+                            <description>Unlock Vampire Pack</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>337256</size>
+                        <file_name>com.ninjafishstudios.halloweenmakeoversalon.unlock_vampire_pack.png</file_name>
+                        <checksum type="md5">0d4b7aa0dbc843e52b712a9d74a9f769</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+                <in_app_purchase>
+                    <product_id>com.ninjafishstudios.halloweenmakeoversalon.unlock_witch_pack</product_id>
+                    <reference_name>com.ninjafishstudios.halloweenmakeoversalon.unlock_witch_pack</reference_name>
+                    <type>non-consumable</type>
+                    <products>
+                        <product>
+                            <cleared_for_sale>true</cleared_for_sale>
+                            <intervals>
+                                <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                                <interval>
+                                    <start_date>2013-10-18</start_date>
+                                    <wholesale_price_tier>5</wholesale_price_tier>
+                                </interval>
+                            </intervals>
+                        </product>
+                    </products>
+                    <locales>
+                        <locale name="en-US">
+                            <title>Unlock Witch Pack</title>
+                            <description>Unlock Witch Pack</description>
+                        </locale>
+                    </locales>
+                    <review_screenshot>
+                        <size>466669</size>
+                        <file_name>com.ninjafishstudios.halloweenmakeoversalon.unlock_witch_pack.png</file_name>
+                        <checksum type="md5">e27ebe892af4cfa27db4768b888b0489</checksum>
+                    </review_screenshot>
+                    <read_only_info>
+                        <read_only_value key="iap-status">Ready to Submit</read_only_value>
+                    </read_only_info>
+                </in_app_purchase>
+            </in_app_purchases>
+        </software_metadata>
+    </software>
+</package>

@@ -1,0 +1,165 @@
+[
+
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.christmasfacepaint.unlock_christmas_glasses",
+ "alertBody":"Christmas Glasses Unlocked! Santa gave you a present Christmas!",
+ "soundName":"GoodIdeaSound3.caf",
+ "flag":false,
+ "durationTillFireDate":"P1S",
+ "userInfo":{
+ "PresentViewController":"DressUpViewController",
+ "Selector":"switchTheme:",
+ "SelectorObject":"christmas",
+ "FlagUserSessionKeys":[],
+ "ProductsUnlocked":["com.ninjafishstudios.christmasfacepaint.unlock_christmas_glasses"]
+ }
+ },
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.christmasfacepaint.unlock_frozen_hats",
+ "alertBody":"New Frozen Unlocked Hats! Look cool & stylish on Christmas Morning!",
+ "soundName":"GoodIdeaSound3.caf",
+ "flag":false,
+ "durationTillFireDate":"P1S",
+ "userInfo":{
+ "PresentViewController":"DressUpViewController",
+ "Selector":"switchTheme:",
+ "SelectorObject":"frozen",
+ "FlagUserSessionKeys":[],
+ "ProductsUnlocked":["com.ninjafishstudios.christmasfacepaint.unlock_frozen_hats"]
+ }
+ },
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.christmasfacepaint.unlock_snowman_hats",
+ "alertBody":"New Snowman hats unlocked! Which one will you choose?",
+ "soundName":"GoodIdeaSound3.caf",
+ "flag":false,
+ "durationTillFireDate":"P1S",
+ "userInfo":{
+ "PresentViewController":"DressUpViewController",
+ "Selector":"switchTheme:",
+ "SelectorObject":"snowman",
+ "FlagUserSessionKeys":[],
+ "ProductsUnlocked":["com.ninjafishstudios.christmasfacepaint.unlock_snowman_hats"]
+ }
+ },
+
+ 
+ {
+ "id":"com.ninjafishstudios.christmasfacepaint.unlock_frozen_glasses",
+ "alertBody":"New Frozen Glassses Unlocked! Show off your style and play Face Paint!",
+ "soundName":"GoodIdeaSound3.caf",
+ "flag":false,
+ "durationTillFireDate":"P1S",
+ "userInfo":{
+ "PresentViewController":"DressUpViewController",
+ "Selector":"switchTheme:",
+ "SelectorObject":"frozen",
+ "FlagUserSessionKeys":[],
+ "ProductsUnlocked":["com.ninjafishstudios.christmasfacepaint.unlock_frozen_glasses"]
+ }
+ },
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.christmasfacepaint.unlock_snowman_glasses",
+ "alertBody":"A snowman gave you all new unlocked glasses!",
+ "soundName":"GoodIdeaSound3.caf",
+ "flag":false,
+ "durationTillFireDate":"P1S",
+ "userInfo":{
+ "PresentViewController":"DressUpViewController",
+ "Selector":"switchTheme:",
+ "SelectorObject":"snowman",
+ "FlagUserSessionKeys":[],
+ "ProductsUnlocked":["com.ninjafishstudios.christmasfacepaint.unlock_snowman_glasses"]
+ }
+ },
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.christmasfacepaint.unlock_santa_glasses",
+ "alertBody":"New Santa  Glasses Unlocked! What stylish glasses...Let's play Christmas Facepaint & Dress Up!",
+ "soundName":"GoodIdeaSound3.caf",
+ "flag":false,
+ "durationTillFireDate":"P1S",
+ "userInfo":{
+ "PresentViewController":"DressUpViewController",
+ "Selector":"switchTheme:",
+ "SelectorObject":"santa",
+ "FlagUserSessionKeys":[],
+ "ProductsUnlocked":["com.ninjafishstudios.christmasfacepaint.unlock_santa_glasses"]
+ }
+ },
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.christmasfacepaint.unlock_santa_hats",
+ "alertBody":"Cool New Santa Hats Unlocked! Match and create your perfect Christmas outfit!",
+ "soundName":"GoodIdeaSound3.caf",
+ "flag":false,
+ "durationTillFireDate":"P1S",
+ "userInfo":{
+ "PresentViewController":"DressUpViewController",
+ "Selector":"switchTheme:",
+ "SelectorObject":"santa",
+ "FlagUserSessionKeys":[],
+ "ProductsUnlocked":["com.ninjafishstudios.christmasfacepaint.unlock_santa_hats"]
+ }
+ },
+ 
+ 
+
+ {
+ "id":"dailyNotification1",
+ "alertBody":"Christmas is tomorrow! Paint your face for Christmas Morning!",
+ "soundName":"GoodIdeaSound3.caf",
+ "flag":false,
+ "fireDate":"2014-12-24 17:10:00 +0000",
+ "userInfo":{
+ 
+ }
+ },
+ {
+ "id":"dailyNotification2",
+ "alertBody":"Christmas is only 2 days away! Choose your holiday face paint mask!",
+ "soundName":"EvilMaleLaughter.caf",
+ "flag":false,
+ "fireDate":"2014-12-23 17:10:00 +0000",
+ "userInfo":{
+ 
+ }
+ },
+ {
+ "id":"dailyNotification3",
+ "alertBody":"Christmas is less than a week away! Paint your face!",
+ "soundName":"GoodIdeaSound3.caf",
+ "flag":false,
+ "fireDate":"2014-12-19 17:10:00 +0000",
+ "userInfo":{
+ 
+ }
+ },
+ 
+
+ 
+ {
+ "id":"dailyNotification4",
+ "alertBody":"Christmas is one week away! Choose your holiday face paint!",
+ "soundName":"GoodIdeaSound3.caf",
+ "flag":false,
+ "fireDate":"2014-12-18 17:10:00 +0000",
+ "userInfo":{
+ }
+ }
+ 
+ 
+ 
+ 
+  
+  ]

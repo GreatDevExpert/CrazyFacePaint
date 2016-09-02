@@ -1,0 +1,740 @@
+[
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.remove_ads",
+ "name":"Remove Ads",
+ "tier":4
+ },
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_all_characters",
+ "name":"Unlock All Characters",
+ "tier":3,
+ "locked_index":1
+ },
+ 
+ 
+
+ 
+
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_pack",
+ "name":"All Christmas Face Paint Designs and Dress Ups",
+ "locked_index":8,
+ "tier":5,
+ "is_part_of_pack":false,
+ "products_unlocked_upon_purchase":[
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_facepaint1",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_facepaint2",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_facepaint3",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_facepaint4",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_facepaint5",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_facepaint6",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_facepaint7",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_facepaint8",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_bench1",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_bench2",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_accessories",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_earrings",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_glasses",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_hats",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_hairs",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_necklaces",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_outfits",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_christmas_wigs"
+                                    ]
+ 
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_bench1",
+ "name":"christmas Bench 1",
+ "locked_index":2,
+ 
+ "download_images_key_paths":[
+                              "facepaint.facepaint.designs.christmas[0:1].items",
+                              "facepaint.facepaint.designs.christmas[0:1].thumbs"
+                              ],
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_bench2",
+ "name":"christmas Bench 2",
+ "locked_index":2,
+ "is_part_of_pack":true
+ },
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_accessories",
+ "name":"Unlock All Christmas Accessories",
+ "locked_index":3,
+ 
+ "watch_to_unlock":true,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_earrings",
+ "name":"Unlock All Christmas Earrings",
+ "download_images_key_paths":[
+                              "dress_up.themes.christmas.clothing.earrings.items[3:7]"
+                              ],
+ "locked_index":3,
+ "watch_to_unlock":true,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_glasses",
+ "name":"Unlock All Christmas Glasses",
+ "watch_to_unlock":true,
+ "locked_index":3
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_hats",
+ "name":"Unlock All Christmas Hats",
+ "locked_index":3,
+ "watch_to_unlock":true,
+ "is_part_of_pack":true
+ },
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_hairs",
+ "name":"Unlock All Christmas Hair",
+ "locked_index":3
+ },
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_necklaces",
+ "name":"Unlock All Christmas Necklaces",
+ "locked_index":3,
+ "watch_to_unlock":true,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_outfits",
+ "name":"Unlock All Christmas Outfits",
+ "locked_index":3,
+ "tier":3
+ },
+
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_facepaint1",
+ "name":"christmas Facepaint 1",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_facepaint2",
+ "name":"christmas Facepaint 2",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_facepaint5",
+ "name":"christmas Facepaint 5",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_christmas_facepaint6",
+ "name":"christmas Facepaint 6",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_pack",
+ "name":"All Snowman Face Paint Designs and Dress Ups",
+ "locked_index":8,
+ "tier":5,
+ "is_part_of_pack":false,
+ "products_unlocked_upon_purchase":[
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint1",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint2",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint3",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint4",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint5",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint6",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint7",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint8",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_bench1",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_bench2",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_accessories",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_earrings",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_glasses",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_hats",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_hairs",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_necklaces",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_outfits",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_snowman_wigs"
+                                    ]
+ 
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_bench1",
+ "name":"Snowman Bench 1",
+ "locked_index":2,
+ 
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_bench2",
+ "name":"Snowman Bench 2",
+ "locked_index":2,
+ "is_part_of_pack":true
+ },
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_accessories",
+ "name":"Unlock All Snowman Accessories",
+ "locked_index":3,
+ 
+ "download_images_key_paths":[
+                              "dress_up.themes.snowman.clothing.accessories.items[3:7]"
+                              ],
+ "watch_to_unlock":true,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_earrings",
+ "name":"Unlock All Snowman Earrings",
+ 
+ "download_images_key_paths":[
+                              "dress_up.themes.snowman.clothing.earrings.items[3:7]"
+                              ],
+ "locked_index":3,
+ "watch_to_unlock":true,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_glasses",
+ "name":"Unlock All Snowman Glasses",
+ "watch_to_unlock":true,
+ "locked_index":3
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_hats",
+ "name":"Unlock All Snowman Hats",
+ "locked_index":3,
+ "watch_to_unlock":true,
+ "is_part_of_pack":true
+ },
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_hairs",
+ "name":"Unlock All Snowman Hair",
+ "locked_index":2,
+ "tier":3
+ },
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_necklaces",
+ "name":"Unlock All Snowman Necklaces",
+ 
+ "download_images_key_paths":[
+                              "dress_up.themes.snowman.clothing.necklaces.items[3:7]"
+                              ],
+ "locked_index":3,
+ "watch_to_unlock":true,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_outfits",
+ "name":"Unlock All Snowman Outfits",
+ 
+ "locked_index":3,
+ "tier":3
+ },
+ 
+
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint1",
+ "name":"Snowman Facepaint 1",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint2",
+ "name":"Snowman Facepaint 2",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint3",
+ "name":"Snowman Facepaint 3",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint4",
+ "name":"Snowman Facepaint 4",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint5",
+ "name":"Snowman Facepaint 5",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint6",
+ "name":"Snowman Facepaint 6",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint7",
+ "name":"Snowman Facepaint 7",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_snowman_facepaint8",
+ "name":"Snowman Facepaint 8",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_pack",
+ "name":"All Santa Face Paint Designs and Dress Ups",
+ "locked_index":0,
+ "tier":5,
+ 
+ "download_images_key_paths":[
+                              "facepaint.facepaint.designs.santa[0:7].items",
+                              "facepaint.facepaint.designs.santa[0:7].thumbs",
+                              "facepaint.facepaint.designs.santa[0:7].bench_item",
+                              "dress_up.themes.santa.clothing.accessories.items",
+                              "dress_up.themes.santa.clothing.earrings.items",
+                              "dress_up.themes.santa.clothing.glasses.items",
+                              "dress_up.themes.santa.clothing.necklaces.items",
+                              "dress_up.themes.santa.clothing.outfits.items",
+                              "dress_up.themes.santa.clothing.wigs.items"
+                              ],
+ 
+ "is_part_of_pack":false,
+ "products_unlocked_upon_purchase":[
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint1",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint2",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint3",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint4",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint5",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint6",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint7",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint8",
+                                    
+                                    
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_bench1",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_bench2",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_accessories",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_earrings",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_glasses",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_hats",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_necklaces",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_outfits",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_santa_wigs"
+                                    ]
+ 
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_bench1",
+ "name":"Santa Bench 1",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_bench2",
+ "name":"Santa Bench 2",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint1",
+ "name":"Santa Facepaint 1",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint2",
+ "name":"Santa Facepaint 2",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint3",
+ "name":"Santa Facepaint 3",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint4",
+ "name":"Santa Facepaint 4",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint5",
+ "name":"Santa Facepaint 5",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint6",
+ "name":"Santa Facepaint 6",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint7",
+ "name":"Santa Facepaint 7",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_facepaint8",
+ "name":"Santa Facepaint 8",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_earrings",
+ "name":"Unlock All Santa Earrings",
+ "locked_index":1,
+ "watch_to_unlock":true,
+ 
+ "download_images_key_paths":[
+                              "dress_up.themes.santa.clothing.earrings.items"
+                              ],
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_glasses",
+ "name":"Unlock All Santa Glasses",
+ "watch_to_unlock":true,
+ "locked_index":1
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_hats",
+ "name":"Unlock All Santa Hats",
+ "locked_index":1,
+ "watch_to_unlock":true,
+ 
+ "download_images_key_paths":[
+                              "dress_up.themes.santa.clothing.hats.items"
+                              ],
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_necklaces",
+ "name":"Unlock All Santa Necklaces",
+ "locked_index":1,
+ "watch_to_unlock":true,
+ 
+ "download_images_key_paths":[
+                              "dress_up.themes.santa.clothing.necklaces.items"
+                              ],
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_outfits",
+ "name":"Unlock All Santa Outfits",
+ "locked_index":0,
+ "tier":3,
+ 
+ "download_images_key_paths":[
+                              "dress_up.themes.santa.clothing.outfits.items"
+                              ]
+ },
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_santa_hairs",
+ "name":"Unlock All Santa Hair",
+ "locked_index":0,
+ "tier":3
+ },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_pack",
+ "name":"All Frozen Face Paint Designs and Dress Ups",
+ "locked_index":0,
+ "tier":5,
+ 
+ "download_images_key_paths":[
+                              "facepaint.facepaint.designs.frozen[0:7].items",
+                              "facepaint.facepaint.designs.frozen[0:7].thumbs",
+                              "facepaint.facepaint.designs.frozen[0:7].bench_item",
+                              "dress_up.themes.frozen.clothing.accessories.items",
+                              "dress_up.themes.frozen.clothing.earrings.items",
+                              "dress_up.themes.frozen.clothing.glasses.items",
+                              "dress_up.themes.frozen.clothing.necklaces.items",
+                              "dress_up.themes.frozen.clothing.outfits.items",
+                              "dress_up.themes.frozen.clothing.wigs.items"
+                              ],
+ 
+ "is_part_of_pack":false,
+ "products_unlocked_upon_purchase":[
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint1",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint2",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint3",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint4",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint5",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint6",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint7",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint8",
+                                    
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_bench1",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_bench2",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_accessories",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_earrings",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_glasses",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_hats",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_necklaces",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_outfits",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_frozen_wigs"
+                                    ]
+ 
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_bench1",
+ "name":"Frozen Bench 1",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_bench2",
+ "name":"Frozen Bench 2",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint1",
+ "name":"Frozen Facepaint 1",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint2",
+ "name":"Frozen Facepaint 2",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint3",
+ "name":"Frozen Facepaint 3",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint4",
+ "name":"Frozen Facepaint 4",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint5",
+ "name":"Frozen Facepaint 5",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint6",
+ "name":"Frozen Facepaint 6",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint7",
+ "name":"Frozen Facepaint 7",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_facepaint8",
+ "name":"Frozen Facepaint 8",
+ "locked_index":0,
+ "is_part_of_pack":true
+ },
+ 
+
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_earrings",
+ "name":"Unlock All Frozen Earrings",
+ "locked_index":1,
+ "watch_to_unlock":true,
+ 
+ "download_images_key_paths":[
+                              "dress_up.themes.frozen.clothing.earrings.items"
+                              ],
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_glasses",
+ "name":"Unlock All Frozen Glasses",
+ "watch_to_unlock":true,
+ "locked_index":1
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_hats",
+ "name":"Unlock All Frozen Hats",
+ "locked_index":1,
+ "watch_to_unlock":true,
+ 
+ "download_images_key_paths":[
+                              "dress_up.themes.frozen.clothing.hats.items"
+                              ],
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_necklaces",
+ "name":"Unlock All Frozen Necklaces",
+ "locked_index":1,
+ "watch_to_unlock":true,
+ 
+ "download_images_key_paths":[
+                              "dress_up.themes.frozen.clothing.necklaces.items"
+                              ],
+ "is_part_of_pack":true
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_outfits",
+ "name":"Unlock All Frozen Outfits",
+ "locked_index":0,
+ "tier":3,
+ 
+ "download_images_key_paths":[
+                              "dress_up.themes.frozen.clothing.outfits.items"
+                              ]
+ },
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_frozen_hairs",
+ "name":"Unlock All Frozen Hair",
+ "locked_index":0,
+ "tier":3
+ },
+ 
+ 
+ 
+ 
+
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_sparkle_pack",
+ "name":"Unlock All Sparkle Makeup, Clothing, and Accessories",
+ "tier":8,
+ "is_part_of_pack":false,
+ "products_unlocked_upon_purchase":[
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_sparkle_outfits",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_sparkle_hairs",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_sparkle_lipsticks",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_sparkle_eye_liner",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_sparkle_eye_shadow",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_sparkle_mascara",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_sparkle_powders",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_sparkle_earrings",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_sparkle_necklaces",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_sparkle_glasses",
+                                    "com.ninjafishstudios.crazyfacepaint.unlock_sparkle_hair_pieces"
+                                    ]
+ },
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_sparkle_earrings",
+ "name":"Unlock All Sparkle Earrings",
+ "watch_to_unlock":true,
+ "is_part_of_pack":true,
+ "locked_index":3
+ },
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_sparkle_lipsticks",
+ "name":"Unlock All Sparkle Lipstick",
+ "tier":3,
+ "locked_index":2
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_sparkle_eye_liner",
+ "name":"Unlock All Sparkle Eye Liner",
+ "is_part_of_pack":true,
+ "watch_to_unlock":true,
+ "locked_index":2
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_sparkle_mascara",
+ "name":"Unlock All Sparkle Mascara",
+ "tier":2,
+ "locked_index":2
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_sparkle_powders",
+ "name":"Unlock All Sparkle Powder",
+ "is_part_of_pack":true,
+ "watch_to_unlock":true,
+ "locked_index":2
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_sparkle_eye_shadow",
+ "name":"Unlock All Sparkle Eye Shadow",
+ "is_part_of_pack":true,
+ "watch_to_unlock":true,
+ "locked_index":4
+ },
+ 
+ 
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_sparkle_necklaces",
+ "name":"Unlock All Sparkle Necklaces",
+ "watch_to_unlock":true,
+ "is_part_of_pack":true,
+ "locked_index":3
+ },
+ {
+ "id":"com.ninjafishstudios.crazyfacepaint.unlock_sparkle_hair_pieces",
+ "name":"Unlock All Sparkle Hair Pieces",
+ "watch_to_unlock":true,
+ "locked_index":3
+ }
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ ]
+

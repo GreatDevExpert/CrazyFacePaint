@@ -1,0 +1,1 @@
+../../NFLibrary/Classes/NFLibrary/NFUIKit/NFAnimation/NFAnimatedImageView.h
